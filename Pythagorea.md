@@ -19,7 +19,7 @@ apple app store里Pythagorea游戏的解法，低难度题目略。
 ![6.18](solving/Pythagorea/6.18.png)
 
 ####§ 6.19
-找出和A节点距离为5的节点。偏移A节点3行4列处的点，距离也为5。勾3股4弦5  
+找出和A节点距离为5的节点。偏移A节点3行4列处的点，距离也为5。勾3股4弦5   
 ![6.19](solving/Pythagorea/6.19.png)
 
 ####§ 7.2
@@ -75,7 +75,7 @@ apple app store里Pythagorea游戏的解法，低难度题目略。
 ![8.13](solving/Pythagorea/8.13.png)
 
 ####§ 8.14
-标注出和A点距离为根号5的节点  ，编辑一个日字节点，距离都是50
+标注出和A点距离为根号5的节点  
 ![8.14](solving/Pythagorea/8.14.png)
 
 ####§ 8.17
@@ -99,7 +99,7 @@ apple app store里Pythagorea游戏的解法，低难度题目略。
 ![8.28](solving/Pythagorea/8.28.png)
 
 ####§ 8.29
-画中点  
+中点，斜边高2又1/3，中点在Y轴1又1/6处  
 ![8.29](solving/Pythagorea/8.29.png)
 
 
