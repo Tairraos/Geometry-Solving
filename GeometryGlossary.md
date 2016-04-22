@@ -4,11 +4,11 @@
 |altitude|顶垂线|
 |axes|轴|
 |base|底边，底面|
-|bisector|平分（二等分）|
+|bisector|平分，二等分|
 |center|中点|
-|centroid|质心（中线的交点）|
+|centroid|质心，中线的交点|
 |circle|圆|
-|circumcenter|外心（外接圆的中心）|
+|circumcenter|外心，外接圆的中心|
 |circumscribe|外接|
 |clockwise|顺时针|
 |construct|作图|
@@ -16,22 +16,22 @@
 |cross section|截面|
 |cube|正方体|
 |cuboid|长方体|
-|curve 曲线|
+|curve|曲线|
 |diagonal|对角线|
 |diameter|直径|
 |distance|距离|
 |equilateral|等边，等面|
 |hexagon|六边形|
 |hypotenuse|直角三角形的斜边|
-|incenter|内心（角平分线的交点）|
+|incenter|内心，角平分线的交点|
 |inscribe|在内侧作图|
 |intersect|相交|
 |isosceles|等腰的|
-|leg|腰线（和底边共顶点的边）|
+|leg|腰线，和底边相交的边|
 |lie|位于|
 |line|直线|
-|median|中线（连接顶点和对边中点的线）|
-|mid-segment|中分线（连线两条边中点的线）|
+|median|中线，连接顶点和对边中点|
+|mid-segment|中分线，连线两条边中点|
 |midpoint|线段的中点|
 |opposite|对向的|
 |parallel|平行|
@@ -43,7 +43,7 @@
 |prism|棱柱|
 |projection|投影|
 |pyramids|棱椎|
-|pythagoras|勾股定理，毕达哥拉斯定理|
+|pythagoras|勾股/毕达哥拉斯 定理|
 |ray|射线|
 |rectangle|矩形|
 |reflect|映射|
