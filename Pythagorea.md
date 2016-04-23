@@ -1,7 +1,6 @@
 ##Pythagorea解法
 apple app store里Pythagorea游戏的解法，低难度题目略。
 
-
 ####§ 6.3
 [画直线等分两个矩形](solving/Pythagorea/6.3.png)
 
@@ -143,6 +142,9 @@ apple app store里Pythagorea游戏的解法，低难度题目略。
 ####§ 10.11
 [线上求点，和AB距离和最短](solving/Pythagorea/10.11.png)
 
+####§ 10.15
+[沿给定的线画一个镜象的角](solving/Pythagorea/10.15.png)
+
 ####§ 10.17
 [切线](solving/Pythagorea/10.17.png)
 
@@ -172,8 +174,5 @@ apple app store里Pythagorea游戏的解法，低难度题目略。
 
 ####§ 10.30
 [切线。切点弦方程](solving/Pythagorea/10.30.png)
-
-
-
 
 
