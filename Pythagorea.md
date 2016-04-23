@@ -1,4 +1,4 @@
-##Pythagorea解法
+### Pythagorea解法
 apple app store里Pythagorea游戏的解法，低难度题目略。
 
 ####§ 6.3
