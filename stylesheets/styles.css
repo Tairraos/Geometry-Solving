@@ -82,7 +82,6 @@ header.without-description h1 {
 header p {
   margin: 0;
   color: #61778B;
-  width: 300px;
   font-size: 13px;
 }
 header p.view {
@@ -98,27 +97,27 @@ header p.view small {
   font-weight: 400;
 }
 header ul {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  position: absolute;
-  z-index: 1;
-  right: 20px;
-  top: 20px;
-  height: 38px;
-  padding: 1px 0;
-  background: #5198DF;
-  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #77b9fb), color-stop(100%, #3782cd));
-  background: -webkit-linear-gradient(#77b9fb, #3782cd);
-  background: -moz-linear-gradient(#77b9fb, #3782cd);
-  background: -o-linear-gradient(#77b9fb, #3782cd);
-  background: -ms-linear-gradient(#77b9fb, #3782cd);
-  background: linear-gradient(#77b9fb, #3782cd);
-  border-radius: 5px;
-  -webkit-box-shadow: inset rgba(255, 255, 255, 0.45) 0 1px 0, inset rgba(0, 0, 0, 0.2) 0 -1px 0;
-  -moz-box-shadow: inset rgba(255, 255, 255, 0.45) 0 1px 0, inset rgba(0, 0, 0, 0.2) 0 -1px 0;
-  box-shadow: inset rgba(255, 255, 255, 0.45) 0 1px 0, inset rgba(0, 0, 0, 0.2) 0 -1px 0;
-  width: auto;
+    margin: 0 0 15px 0;
+    padding: 0;
+    list-style: none;
+    position: relative;
+    z-index: 1;
+    display: block;
+    width: 408px;
+    top: 15px;
+    height: 38px;
+    padding: 1px 0;
+    background: #5198DF;
+    background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #77b9fb), color-stop(100%, #3782cd));
+    background: -webkit-linear-gradient(#77b9fb, #3782cd);
+    background: -moz-linear-gradient(#77b9fb, #3782cd);
+    background: -o-linear-gradient(#77b9fb, #3782cd);
+    background: -ms-linear-gradient(#77b9fb, #3782cd);
+    background: linear-gradient(#77b9fb, #3782cd);
+    border-radius: 5px;
+    -webkit-box-shadow: inset rgba(255, 255, 255, 0.45) 0 1px 0, inset rgba(0, 0, 0, 0.2) 0 -1px 0;
+    -moz-box-shadow: inset rgba(255, 255, 255, 0.45) 0 1px 0, inset rgba(0, 0, 0, 0.2) 0 -1px 0;
+    box-shadow: inset rgba(255, 255, 255, 0.45) 0 1px 0, inset rgba(0, 0, 0, 0.2) 0 -1px 0;
 }
 header ul:before {
   content: '';
