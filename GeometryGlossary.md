@@ -1,4 +1,4 @@
-##Geometry glossary 几何词汇
+### Geometry glossary 几何词汇
 |词汇|含义|
 |---|---|
 |altitude|顶垂线|
