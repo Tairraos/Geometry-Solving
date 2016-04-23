@@ -143,7 +143,7 @@ apple app store里Pythagorea游戏的解法，低难度题目略。
 ![9.14](solving/Pythagorea/9.14.png)
 
 ####§ 9.21
-切线，找出和连接切点和直径90度的直径，作平行线  
+切线，在切点做直径的垂线  
 ![9.21](solving/Pythagorea/9.21.png)
 
 
