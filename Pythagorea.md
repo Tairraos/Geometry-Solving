@@ -102,6 +102,50 @@ apple app store里Pythagorea游戏的解法，低难度题目略。
 中点，斜边高2又1/3，中点在Y轴1又1/6处  
 ![8.29](solving/Pythagorea/8.29.png)
 
+####§ 9.2
+找出所有可以连接线段后呈90度角的点  
+![9.2](solving/Pythagorea/9.2.png)
+
+####§ 9.4
+角平分线，画等腰梯形作中线  
+![9.4](solving/Pythagorea/9.4.png)
+
+####§ 9.5
+所有共切线  
+![9.5](solving/Pythagorea/9.5.png)
+
+####§ 9.8
+过A作垂线  
+![9.8](solving/Pythagorea/9.8.png)
+
+####§ 9.9
+过A作平行线  
+![9.9](solving/Pythagorea/9.9.png)
+
+####§ 9.10
+角平分线，画正方形连接对角线  
+![9.10](solving/Pythagorea/9.10.png)
+
+####§ 9.11
+找出外心，中垂线交点  
+![9.11](solving/Pythagorea/9.11.png)
+
+####§ 9.12
+过C画线，线和AB等距离
+![9.12](solving/Pythagorea/9.12.png)
+
+####§ 9.13
+垂分线，找出中点，将端点绕中点转90度  
+![9.13](solving/Pythagorea/9.13.png)
+
+####§ 9.14
+内心，角平分线交点  
+![9.14](solving/Pythagorea/9.14.png)
+
+####§ 9.21
+切线，找出和连接切点和直径90度的直径，作平行线  
+![9.21](solving/Pythagorea/9.21.png)
+
 
 
 
