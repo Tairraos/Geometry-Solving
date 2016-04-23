@@ -1,6 +1,5 @@
-##Pythagorea解法
-apple app store里Pythagorea游戏的解法，低难度题目略。
-
+### Pythagorea60解法
+apple app store里Pythagorea60游戏的解法，低难度题目略。
 
 ####§ 12.4
 [内心。角平分线的交点](solving/Pythagorea60/12.04.png)
