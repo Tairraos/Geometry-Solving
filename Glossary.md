@@ -13,6 +13,7 @@
 |clockwise|顺时针|
 |construct|作图|
 |counterclockwise|逆时针|
+|corss|相交|
 |cross section|截面|
 |cube|正方体|
 |cuboid|长方体|
@@ -36,7 +37,9 @@
 |opposite|对向的|
 |parallel|平行|
 |parallelogram|平行四边形|
+|pass through|经过|
 |perpendicular|垂直|
+|plane|平面|
 |polygon|多边形|
 |polyhedron|多面体|
 |polyline|折线|
