@@ -12,5 +12,37 @@
 - 12.8 [角平分线。解：水平对称的角对称轴即角平分线](solving/Pythagorea60/12.08.png)
 - 12.9 [角平分线。解：向角开口的方向平移做菱型，对角线即为角平分线](solving/Pythagorea60/12.09.png)
 - 12.10 [角平分线。解：找到对面弧线的中点](solving/Pythagorea60/12.10.png)
+- 12.11 BLOCKED
 
+#### § 14 Pythagoras Theorem
+
+#### § 15 Hexagons
+- 15.6 BLOCKED
+
+#### § 16 Length And Proportions
+- 16.13 BLOCKED
+
+#### § 17 Area
+- 17.4 BLOCKED
+
+#### § 18 Perpendicular Bisectors
+- 18.7 BLOCKED
+
+#### § 19 Perpendiculas
+- 19.8 BLOCKED
+
+#### § 20 Altitudes
+- 20.1 BLOCKED
+
+#### § 21 Rhombuses
+- 21.12 BLOCKED
+
+#### § 22 Tangents
+- 22.8 BLOCKED
+
+#### § 23 Symmetry
+- 23.1 BLOCKED
+
+#### § 24 Extra
+- 24.3 BLOCKED
 
