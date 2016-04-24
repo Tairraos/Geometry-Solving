@@ -1,28 +1,28 @@
 ### Pythagorea 解法
 对应 Apple app store 里的 Pythagorea 游戏
 
-####§ 6 Diffcult
+#### § 6 Diffcult
 - 6.3 [画直线等分两个矩形](solving/Pythagorea/6.3.png)
 - 6.10 [过节点A画垂线](solving/Pythagorea/6.10.png)
 - 6.12 [给定一条边和对面中点A，画平行四边形](solving/Pythagorea/6.12.png)
 - 6.18 [2/5处画点](solving/Pythagorea/6.18.png)
-- 6.19 [找出和A节点距离为5的节点。偏移A节点3行4列处的点，距离也为5。勾3股4弦5](solving/Pythagorea/6.19.png)
+- 6.19 [找出和A节点距离为5的节点。距离3行4列的距离为勾3股4弦5](solving/Pythagorea/6.19.png)
 
-####§ 7 Hard
+#### § 7 Hard
 - 7.2 [过节点A画角平分线，中线和顶垂线](solving/Pythagorea/7.2.png)
 - 7.3 [过A画两条直线3使矩形面积3等分](solving/Pythagorea/7.3.png)
 - 7.6 [画45度角](solving/Pythagorea/7.6.png)
 - 7.9 [画出所有顶垂线](solving/Pythagorea/7.9.png)
-- 7.13 [在线上画一点，到给定的两点距离一样。垂分线交点](solving/Pythagorea/7.13.png)
+- 7.13 [线上求点，到给定的两点距离一样。垂分线交点](solving/Pythagorea/7.13.png)
 - 7.21 [画出所有的过C点，并且距离AB相等的线](solving/Pythagorea/7.21.png)
 
-####§ 8 Harder
+#### § 8 Harder
 - 8.1 [找中点，Y轴3个单位，中点在Y轴1.5单位处](solving/Pythagorea/8.1.png)
 - 8.4 [给定2个顶点画正方型](solving/Pythagorea/8.4.png)
 - 8.7 [给定一条边和对边的中点，画平行四边型](solving/Pythagorea/8.7.png)
 - 8.8 [在线段5分之2处画点](solving/Pythagorea/8.8.png)
 - 8.10 [画垂分线](solving/Pythagorea/8.10.png)
-- 8.12 [过C点画线，要求直线距离AB相等。一条过C的平等线，和一条过C的平分线。](solving/Pythagorea/8.12.png)
+- 8.12 [过C点画距离AB相等的线。过C作AB的平行线和平分线](solving/Pythagorea/8.12.png)
 - 8.13 [三分线段](solving/Pythagorea/8.13.png)
 - 8.14 [标注出和A点距离为根号5的节点](solving/Pythagorea/8.14.png)
 - 8.17 [角平分线](solving/Pythagorea/8.17.png)
@@ -32,7 +32,7 @@
 - 8.28 [在射线上，标注距离A点1个单位的点](solving/Pythagorea/8.28.png)
 - 8.29 [中点，斜边高2又1/3，中点在Y轴1又1/6处](solving/Pythagorea/8.29.png)
 
-####§ 9 Very Hard
+#### § 9 Very Hard
 - 9.2 [和给定线段连接线的夹角90度的点](solving/Pythagorea/9.2.png)
 - 9.4 [角平分线，画等腰梯形作中线](solving/Pythagorea/9.4.png)
 - 9.5 [所有共切线](solving/Pythagorea/9.5.png)
@@ -48,11 +48,11 @@
 - 9.25 [过A点的切线](solving/Pythagorea/9.25.png)
 - 9.26 [角平分线](solving/Pythagorea/9.26.png)
 - 9.27 [和给定线段连接线的夹角90度的点](solving/Pythagorea/9.27.png)
-- 9.28 [在线上画一点，到给定的两点距离一样。垂分线交点](solving/Pythagorea/9.28.png)
+- 9.28 [线上求点，到给定的两点距离一样。垂分线交点	](solving/Pythagorea/9.28.png)
 
-####§ 10 Impossible
+#### § 10 Impossible
 - 10.1 [垂分线，找出中点，将端点绕中点转90度](solving/Pythagorea/10.1.png)
-- 10.3 [过C点画线，要求直线距离AB相等。一条过C的平等线，和一条过C的平分线](solving/Pythagorea/10.3.png)
+- 10.3 [过C点画距离AB相等的线。过C作AB的平行线和平分线](solving/Pythagorea/10.3.png)
 - 10.5 [外接圆心，中垂线交点](solving/Pythagorea/10.5.png)
 - 10.9 [和给定线段连接线的夹角45度的点，两边两个点容易遗漏](solving/Pythagorea/10.9.png)
 - 10.10 [内心，角平分线交点](solving/Pythagorea/10.10.png)
@@ -68,4 +68,5 @@
 - 10.28 [切线](solving/Pythagorea/10.28.png)
 - 10.29 [切线。切点弦方程](solving/Pythagorea/10.29.png)
 - 10.30 [切线。切点弦方程](solving/Pythagorea/10.30.png)
+
 
