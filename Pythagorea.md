@@ -17,7 +17,7 @@
 - 7.21 [画出所有的过C点，并且距离AB相等的线](solving/Pythagorea/7.21.png)
 
 #### § 8 Harder
-- 8.1 [找中点，Y轴3个单位，中点在Y轴1.5单位处](solving/Pythagorea/8.1.png)
+- 8.1 [找中点。Y轴3个单位，中点在Y轴1.5单位处](solving/Pythagorea/8.1.png)
 - 8.4 [给定2个顶点画正方型](solving/Pythagorea/8.4.png)
 - 8.7 [给定一条边和对边的中点，画平行四边型](solving/Pythagorea/8.7.png)
 - 8.8 [在线段5分之2处画点](solving/Pythagorea/8.8.png)
@@ -30,7 +30,7 @@
 - 8.19 [找到垂分线的交点（重心）](solving/Pythagorea/8.19.png)
 - 8.22 [给定线段的中点，画正方形](solving/Pythagorea/8.22.png)
 - 8.28 [在射线上，标注距离A点1个单位的点](solving/Pythagorea/8.28.png)
-- 8.29 [中点，斜边高2又1/3，中点在Y轴1又1/6处](solving/Pythagorea/8.29.png)
+- 8.29 [求中点。斜边高2又1/3，中点在Y轴1又1/6处](solving/Pythagorea/8.29.png)
 
 #### § 9 Very Hard
 - 9.2 [和给定线段连接线的夹角90度的点](solving/Pythagorea/9.2.png)
@@ -38,22 +38,22 @@
 - 9.5 [所有共切线](solving/Pythagorea/9.5.png)
 - 9.8 [过A作垂线](solving/Pythagorea/9.8.png)
 - 9.9 [过A作平行线](solving/Pythagorea/9.9.png)
-- 9.10 [角平分线，画正方形连接对角线](solving/Pythagorea/9.10.png)
-- 9.11 [找出外心，中垂线交点](solving/Pythagorea/9.11.png)
+- 9.10 [角平分线。画正方形连接对角线](solving/Pythagorea/9.10.png)
+- 9.11 [找出外心。中垂线交点](solving/Pythagorea/9.11.png)
 - 9.12 [过C画线，线和AB等距离](solving/Pythagorea/9.12.png)
 - 9.13 [垂分线，找出中点，将端点绕中点转90度](solving/Pythagorea/9.13.png)
 - 9.14 [内心，角平分线交点](solving/Pythagorea/9.14.png)
 - 9.20 [角平分线](solving/Pythagorea/9.20.png)
-- 9.21 [切线，在切点做直径的垂线](solving/Pythagorea/9.21.png)
+- 9.21 [切线。在切点做直径的垂线](solving/Pythagorea/9.21.png)
 - 9.25 [过A点的切线](solving/Pythagorea/9.25.png)
 - 9.26 [角平分线](solving/Pythagorea/9.26.png)
 - 9.27 [和给定线段连接线的夹角90度的点](solving/Pythagorea/9.27.png)
-- 9.28 [线上求点，到给定的两点距离一样。垂分线交点	](solving/Pythagorea/9.28.png)
+- 9.28 [线上求点，到给定的两点距离一样。垂分线交点](solving/Pythagorea/9.28.png)
 
 #### § 10 Impossible
-- 10.1 [垂分线，找出中点，将端点绕中点转90度](solving/Pythagorea/10.1.png)
+- 10.1 [垂分线。找出中点，将端点绕中点转90度](solving/Pythagorea/10.1.png)
 - 10.3 [过C点画距离AB相等的线。过C作AB的平行线和平分线](solving/Pythagorea/10.3.png)
-- 10.5 [外接圆心，中垂线交点](solving/Pythagorea/10.5.png)
+- 10.5 [外接圆心。中垂线交点](solving/Pythagorea/10.5.png)
 - 10.9 [和给定线段连接线的夹角45度的点，两边两个点容易遗漏](solving/Pythagorea/10.9.png)
 - 10.10 [内心，角平分线交点](solving/Pythagorea/10.10.png)
 - 10.11 [线上求点，和AB距离和最短](solving/Pythagorea/10.11.png)
