@@ -30,7 +30,7 @@
 - 8.19 [找到垂分线的交点（重心）](solving/Pythagorea/8.19.png)
 - 8.22 [给定线段的中点，画正方形](solving/Pythagorea/8.22.png)
 - 8.28 [在射线上，标注距离A点1个单位的点](solving/Pythagorea/8.28.png)
-- 8.29 [求中点。解：斜边高2又1/3，中点在Y轴1又1/6处](solving/Pythagorea/8.29.png)
+- 8.29 [求中点。解：AB在Y轴上高2又1/3，中点的Y轴位置在A点向下1又1/6](solving/Pythagorea/8.29.png)
 
 #### § 9 Very Hard
 - 9.2 [和给定线段连接线的夹角90度的点](solving/Pythagorea/9.2.png)
