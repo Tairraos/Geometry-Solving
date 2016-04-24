@@ -62,7 +62,7 @@
 - 10.19 [给出边的中点求平行四边形](solving/Pythagorea/10.19.png)
 - 10.20 [切线](solving/Pythagorea/10.20.png)
 - 10.23 [角平分线](solving/Pythagorea/10.23.png)
-- 10.24 [角平分线](solving/Pythagorea/10.24.png)
+- 10.24 [角平分线。解：找到对面弧线的中点](solving/Pythagorea/10.24.png)
 - 10.25 [切线](solving/Pythagorea/10.25.png)
 - 10.26 [旋转图形](solving/Pythagorea/10.26.png)
 - 10.28 [切线](solving/Pythagorea/10.28.png)
