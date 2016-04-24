@@ -34,14 +34,14 @@
 
 #### § 9 Very Hard
 - 9.2 [和给定线段连接线的夹角90度的点](solving/Pythagorea/9.2.png)
-- 9.4 [角平分线，画等腰梯形作中线](solving/Pythagorea/9.4.png)
+- 9.4 [角平分线。画等腰梯形作中线](solving/Pythagorea/9.4.png)
 - 9.5 [所有共切线](solving/Pythagorea/9.5.png)
 - 9.8 [过A作垂线](solving/Pythagorea/9.8.png)
 - 9.9 [过A作平行线](solving/Pythagorea/9.9.png)
 - 9.10 [角平分线。画正方形连接对角线](solving/Pythagorea/9.10.png)
 - 9.11 [找出外心。中垂线交点](solving/Pythagorea/9.11.png)
 - 9.12 [过C画线，线和AB等距离](solving/Pythagorea/9.12.png)
-- 9.13 [垂分线，找出中点，将端点绕中点转90度](solving/Pythagorea/9.13.png)
+- 9.13 [垂分线。找出中点，将端点绕中点转90度](solving/Pythagorea/9.13.png)
 - 9.14 [内心，角平分线交点](solving/Pythagorea/9.14.png)
 - 9.20 [角平分线](solving/Pythagorea/9.20.png)
 - 9.21 [切线。在切点做直径的垂线](solving/Pythagorea/9.21.png)
