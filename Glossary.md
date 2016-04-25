@@ -38,6 +38,7 @@
 |parallel|平行|
 |parallelogram|平行四边形|
 |pass through|经过|
+|perimeter|边缘|
 |perpendicular|垂直|
 |plane|平面|
 |polygon|多边形|
@@ -45,6 +46,7 @@
 |polyline|折线|
 |prism|棱柱|
 |projection|投影|
+|proportions|均衡|
 |pyramids|棱椎|
 |pythagoras|勾股/毕达哥拉斯 定理|
 |ray|射线|
