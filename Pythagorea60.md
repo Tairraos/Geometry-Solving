@@ -4,7 +4,7 @@
 #### § 11 Angle
 - 11.8 [沿AB映射给定的角](solving/Pythagorea60/11.08.png)
 
-#### § 12 Angle Bisetors
+#### § 12 Angle Bisectors
 - 12.4 [内心。解：角平分线的交点](solving/Pythagorea60/12.04.png)
 - 12.5 [角平分线。解：画一个菱型，对角线即为角平分线](solving/Pythagorea60/12.05.png)
 - 12.6 [角平分线。解：画一个菱型，对角线即为角平分线](solving/Pythagorea60/12.06.png)
@@ -15,7 +15,12 @@
 - 12.11 BLOCKED
 
 #### § 14 Pythagoras Theorem
-- 等解
+- 14.02 [求√13边长的等边三角型。解：勾股定理，这条斜边为√13](solving/Pythagorea60/14.02.png)
+- 14.03 [过点画出所有√7长度的线段。解：勾股定理，这条斜边为√7](solving/Pythagorea60/14.03.png)
+- 14.05 [画一条距离为√7的平行线。解：见上题，这条垂线长度为√7](solving/Pythagorea60/14.05.png)
+- 14.06 [作长度为√19的等边三角型。解：勾股定理，这条斜边为√19](solving/Pythagorea60/14.06.png)
+- 14.07 [作边长为√7，√19，√31的三角型。解：前面几题已知√7和√19，找一条√31即可](solving/Pythagorea60/14.07.png)
+- 14.08 [作边长为7，√21，2√7的三角型。](solving/Pythagorea60/14.08.png)
 
 #### § 15 Hexagons
 - 15.6 [做边长为3的六边型。](solving/Pythagorea60/15.06.png)
@@ -31,7 +36,7 @@
 - 16.8 [找中点。解：观察线段两端距离坐标位置，得知中点在坐标偏移1/4处](solving/Pythagorea60/16.08.png)
 - 16.9 [过A等分三角型周长。解：假设每边长4个单位，找到6个单位的位置](solving/Pythagorea60/16.09.png)
 - 16.10 [过A等分三角型周长。解：周长9，找到4.5的位置](solving/Pythagorea60/16.10.png)
-- 16.13 BLOCKED
+- 16.13 [过A等分三角型周长。解：周长15，在斜边处找到2.5的位置](solving/Pythagorea60/16.13.png)
 
 #### § 17 Area
 - 17.3 [过A点等分正六边型。解：连接A和六边型中点](solving/Pythagorea60/17.03.png)
@@ -41,7 +46,7 @@
 #### § 18 Perpendicular Bisectors
 - 18.7 BLOCKED
 
-#### § 19 Perpendiculas
+#### § 19 Perpendiculars
 - 19.8 BLOCKED
 
 #### § 20 Altitudes
