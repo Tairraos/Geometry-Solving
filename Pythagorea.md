@@ -18,15 +18,15 @@
 
 #### § 8 Harder
 - 8.1 [找中点。解：Y轴3个单位，中点在Y轴1.5单位处](solving/Pythagorea/8.1.png)
-- 8.4 [给定2个顶点画正方型](solving/Pythagorea/8.4.png)
-- 8.7 [给定一条边和对边的中点，画平行四边型](solving/Pythagorea/8.7.png)
+- 8.4 [给定2个顶点画正方形](solving/Pythagorea/8.4.png)
+- 8.7 [给定一条边和对边的中点，画平行四边形](solving/Pythagorea/8.7.png)
 - 8.8 [在线段5分之2处画点](solving/Pythagorea/8.8.png)
 - 8.10 [画垂分线](solving/Pythagorea/8.10.png)
 - 8.12 [过C点画距离AB相等的线。解：过C作AB的平行线和平分线](solving/Pythagorea/8.12.png)
 - 8.13 [三分线段](solving/Pythagorea/8.13.png)
 - 8.14 [标注出和A点距离为根号5的节点](solving/Pythagorea/8.14.png)
 - 8.17 [角平分线](solving/Pythagorea/8.17.png)
-- 8.18 [角平分线。解：先画个正方型，对角线就是答案](solving/Pythagorea/8.18.png)
+- 8.18 [角平分线。解：先画个正方形，对角线就是答案](solving/Pythagorea/8.18.png)
 - 8.19 [找到垂分线的交点（重心）](solving/Pythagorea/8.19.png)
 - 8.22 [给定线段的中点，画正方形](solving/Pythagorea/8.22.png)
 - 8.28 [在射线上，标注距离A点1个单位的点](solving/Pythagorea/8.28.png)
