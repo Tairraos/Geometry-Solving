@@ -42,6 +42,9 @@
 - 17.3 [过A点等分正六边型。解：连接A和六边型中点](solving/Pythagorea60/17.03.png)
 - 17.4 [过A点3等分矩形。解：矩形里有12个三角型，每块区域面积4个三角型](solving/Pythagorea60/17.04.png)
 - 17.5 [画等面积矩形。解：三角型面积1.5√2，长方型高√2](solving/Pythagorea60/17.05.png)
+- 17.7 [过A点3等分正u主边型](solving/Pythagorea60/17.07.png)
+- 17.8 [画一个面积是正三角型3倍的正三角型](solving/Pythagorea60/17.08.png)
+- 17.9 [画一个面积最小的内三解。解：连接平分线中点](solving/Pythagorea60/17.09.png)
 
 #### § 18 Perpendicular Bisectors
 - 18.7 BLOCKED
