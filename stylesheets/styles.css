@@ -352,3 +352,5 @@ footer p + p {
     content: 'at https://github.com/';
   }
 }
+
+em { color: #980E04; }
