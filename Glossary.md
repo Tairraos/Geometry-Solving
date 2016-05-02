@@ -35,6 +35,7 @@
 |mid-segment|中分线，连线两条边中点|
 |midpoint|线段的中点|
 |opposite|对向的|
+|orthocenter|垂心|
 |parallel|平行|
 |parallelogram|平行四边形|
 |pass through|经过|
