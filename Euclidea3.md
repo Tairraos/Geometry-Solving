@@ -72,7 +72,7 @@
 - 3.3 ⭐⭐⭐  
 解：如图作圆。[2L2E](solving/Euclidea3/3.3.png)
 - 3.4 ⭐⭐⭐  
-解：作BM和垂分线得到点D，以M为圆心作圆得到点E。[4L6E](solving/Euclidea3/3.4.png)
+解：作BM的垂分线得到点D，以M为圆心作圆得到点E。[4L6E](solving/Euclidea3/3.4.png)
 
 #### § 4.Delta ⭐数量：	
 
