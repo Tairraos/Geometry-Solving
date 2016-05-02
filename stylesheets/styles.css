@@ -353,4 +353,8 @@ footer p + p {
   }
 }
 
-em { color: #980E04; }
+em {
+    color: #9C4D0E;
+    font-size: 80%;
+    font-weight: bold;
+}
