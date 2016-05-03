@@ -23,14 +23,14 @@ _注：2V，上下可各画一个角度线得到隐藏星星。_
 - 1.4 正方形内作圆 ⭐⭐⭐  
 解：简单题，略。
 - 1.5 矩形内作菱形 ⭐⭐⭐⭐  
-解：对矩形对角顶点使用垂分线工具，与矩形边得到交点即为所求菱形的顶点。[3L5E](solving/Euclidea3/1.5.png)  
+解：[3L5E，对矩形对角顶点使用垂分线工具，与矩形边得到交点即为所求菱形的顶点。](solving/Euclidea3/1.5.png)  
 _注：2V，左右对称可做两个菱形得到隐藏星星。_
 - 1.6 找圆心 ⭐⭐⭐  
-解：垂分线工具，在圆周上任做2条垂分线，交点即为圆心。[2L6E](solving/Euclidea3/1.6.1.png)  
-解：画圆工具，用三个圆和两条直线得到两条垂分线。[5E5E](solving/Euclidea3/1.6.2.png)
+解：[2L6E，垂分线工具，在圆周上任做2条垂分线，交点即为圆心。](solving/Euclidea3/1.6.1.png)  
+解：[5E5E，画圆工具，用三个圆和两条直线得到两条垂分线。](solving/Euclidea3/1.6.2.png)
 - 1.7 圆内作正方形 ⭐⭐⭐  
-解：1.直线连接圆心和给定点得到直径；2.做直径的垂分线。[6L8E](solving/Euclidea3/1.7.1.png)  
-解：1.如图示作圆和辅助线；[3L3E](solving/Euclidea3/1.7.2.1.png)，2.如图示连接交点。[7L7E](solving/Euclidea3/1.7.2.2.png)
+解：[6L8E，1.直线连接圆心和给定点得到直径；2.做直径的垂分线。](solving/Euclidea3/1.7.1.png)  
+解：[3L3E，1.如图示作圆和辅助线](solving/Euclidea3/1.7.2.1.png)；[7L7E，2.如图示连接交点。](solving/Euclidea3/1.7.2.2.png)
 
 #### § 2.Beta ⭐数量：38
 - 2.1 角平分线 ⭐⭐⭐  
@@ -38,56 +38,56 @@ _注：2V，左右对称可做两个菱形得到隐藏星星。_
 - 教程：角平分线工具 ⭐⭐⭐  
 解：略。
 - 2.2 三角形内做菱形 ⭐⭐⭐  
-解：1.作A的角平分线；2.对角平分线作中垂线。[4L9E](solving/Euclidea3/2.2.png)
+解：[4L9E，1.作A的角平分线；2.对角平分线作中垂线。](solving/Euclidea3/2.2.png)
 - 2.3 作30度角 ⭐⭐⭐⭐    
-解：如图示做2个圆。[3L3E](solving/Euclidea3/2.3.png)  
+解：[3L3E，如图示做2个圆。](solving/Euclidea3/2.3.png)  
 _注：2V，上下可各画一个角度线得到隐藏星星。_
 - 2.4 2倍角 ⭐⭐⭐⭐  
-解：如图做两个圆。[3L3E](solving/Euclidea3/2.4.png)  
+解：[3L3E，如图做两个圆。](solving/Euclidea3/2.4.png)  
 _注：2V，上下可各画一个角度线得到隐藏星星。_
 - 2.5 切矩形 ⭐⭐⭐  
-解：穿过矩形中心的线平分矩形面积。[3L3E](solving/Euclidea3/2.5.png)
+解：[3L3E，穿过矩形中心的线平分矩形面积。](solving/Euclidea3/2.5.png)
 - 2.6 过线外点作垂线 ⭐⭐⭐  
-解：如图做两个圆。[3L3E](solving/Euclidea3/2.6.1.png)  
-解：以给定点为圆心做圆，和直接交点的垂分线必然通过圆心。[2L4E](solving/Euclidea3/2.6.2.png) 
+解：[3L3E，如图做两个圆。](solving/Euclidea3/2.6.1.png)  
+解：[2L4E，以给定点为圆心做圆，和直接交点的垂分线必然通过圆心。](solving/Euclidea3/2.6.2.png) 
 - 2.7 过线上点作垂线 ⭐⭐⭐  
-解：如图做两个圆。[1L4E](solving/Euclidea3/2.7.1.png)  
+解：[1L4E，如图做两个圆。](solving/Euclidea3/2.7.1.png)  
 *解：3E解答还没想出来。*
 - 教程：垂线工具 ⭐⭐⭐  
 解：简单题，略。
 - 2.8 过圆上点作切线 ⭐⭐⭐  
-解：做半径的垂线。[2L4E](solving/Euclidea3/2.8.1.png)  
+解：[2L4E，做半径的垂线。](solving/Euclidea3/2.8.1.png)  
 *解：3E解答还没想出来。*
 - 2.9 已知切线作圆 ⭐⭐⭐  
 解：简单题，略。
 - 2.10 菱形内作圆 ⭐⭐⭐  
-解：用直线得到中点，过中点做任一边的垂线得到切点，过中点作圆。[4L6E](solving/Euclidea3/2.10.png)
+解：[4L6E，用直线得到中点，过中点做任一边的垂线得到切点，过中点作圆。](solving/Euclidea3/2.10.png)
 
 #### § 3.Gamma ⭐数量：30
 - 3.1 已知中点求弦 ⭐⭐⭐  
-解：连接两点，做垂线。[2L4E](solving/Euclidea3/3.1.png)
+解：[2L4E，连接两点，做垂线。](solving/Euclidea3/3.1.png)
 - 3.2 已知垂心求三角形⭐⭐⭐  
-解：过点分别做2条边的垂线。[3L7E](solving/Euclidea3/3.2.1.png)  
+解：[3L7E，过点分别做2条边的垂线。](solving/Euclidea3/3.2.1.png)  
 *解：6E解答还没想出来。*
 - 3.3 已知外心求三角形 ⭐⭐⭐  
-解：如图作圆。[2L2E](solving/Euclidea3/3.3.png)
+解：[2L2E，如图作圆。](solving/Euclidea3/3.3.png)
 - 3.4 三条线段等长 ⭐⭐⭐  
-解：作BM的垂分线得到点D，以M为圆心作圆得到点E。[4L6E](solving/Euclidea3/3.4.1.png)
-_注：2V，作出左右各一个解得到隐藏星星。[2V](solving/Euclidea3/3.4.2.png)_
+解：[4L6E，作BM的垂分线得到点D，以M为圆心作圆得到点E。](solving/Euclidea3/3.4.1.png)  
+_注：[2V，作出左右各一个解得到隐藏星星。](solving/Euclidea3/3.4.2.png)_
 - 3.5 已经切线和圆上一点求圆 ⭐⭐⭐  
-解：作AB和垂分线，过B做垂线，得到交点O，作圆。[3L7E](solving/Euclidea3/3.5.png)  
+解：[3L7E，作AB和垂分线，过B做垂线，得到交点O，作圆。](solving/Euclidea3/3.5.png)  
 *解：6E解答还没想出来。*
 - 教程：移动工具 ⭐⭐⭐  
 解：简单题，略。	
 - 3.6 梯形中线 ⭐⭐⭐  
-解：作两条边的垂分线。[3L7E](solving/Euclidea3/3.6.png)  
+解：[3L7E，作两条边的垂分线。](solving/Euclidea3/3.6.png)  
 *解：5E解答还没想出来。*
 - 3.7 作45度角 ⭐⭐⭐  
-解：作点做垂线，然后角平分线工具平分直角。[2L7E](solving/Euclidea3/3.7.1.png)  
-解：1.线上任取一点O，作OA圆；2.过O做垂线，连接交点和A。[3L5E](solving/Euclidea3/3.7.2.png)  
+解：[2L7E，作点做垂线，然后角平分线工具平分直角。](solving/Euclidea3/3.7.1.png)  
+解：[3L5E，1.线上任取一点O，作OA圆；2.过O做垂线，连接交点和A。](solving/Euclidea3/3.7.2.png)  
 - 3.8 菱形  
 *解：5L7E解答还没想出来。*  
-_注：4V，左右上下可各画一个菱形得到隐藏星星。[4V](solving/Euclidea3/3.8.3.png)_
+_注：[4V，左右上下可各画一个菱形得到隐藏星星。](solving/Euclidea3/3.8.3.png)_
 
 #### § 4.Delta ⭐数量：	
 
