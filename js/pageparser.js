@@ -18,10 +18,15 @@
 
         //修改链接功能
         var fnTitleClicked = function (ele) {
-            var url = $(this).attr('data-img');
-            if (url) {
-                $(this).after('<br><img src="' + url + '">');
-                $(this).removeAttr('data-img');
+            var url = $(this).attr('data-img'),
+                $link = $(this);
+            if (url && $link.is('[data-img]')) {
+                $link.after('<br><img src="' + url + '" style="display:block;">');
+                $link.removeAttr('data-img');
+            } else if($link.next().next().is(':visible')){
+                $link.next().hide().next().hide();
+            } else {
+                $link.next().show().next().show();
             }
         };
         $('a', mdContainer).each(function () {

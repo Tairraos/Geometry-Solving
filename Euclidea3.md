@@ -30,7 +30,7 @@ _注：2V，左右对称可做两个菱形得到隐藏星星。_
 解：[5E5E，画圆工具，用三个圆和两条直线得到两条垂分线。](solving/Euclidea3/1.6.2.png)
 - 1.7 圆内作正方形 ⭐⭐⭐  
 解：[6L8E，1.直线连接圆心和给定点得到直径；2.做直径的垂分线。](solving/Euclidea3/1.7.1.png)  
-解：[3L3E，1.如图示作圆和辅助线](solving/Euclidea3/1.7.2.1.png)；[7L7E，2.如图示连接交点。](solving/Euclidea3/1.7.2.2.png)
+解：[3L3E，1.如图示作圆和辅助线；](solving/Euclidea3/1.7.2.1.png)[7L7E，2.如图示连接交点。](solving/Euclidea3/1.7.2.2.png)
 
 #### § 2.Beta ⭐数量：38
 - 2.1 角平分线 ⭐⭐⭐  
