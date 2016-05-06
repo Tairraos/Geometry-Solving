@@ -12,7 +12,8 @@
 - 12.8 [角平分线。解：水平对称的角，找到平分的水平线即可](solving/Pythagorea60/12.08.png)
 - 12.9 [角平分线。解：向角开口的方向平移做菱形，对角线即为角平分线](solving/Pythagorea60/12.09.png)
 - 12.10 [角平分线。解：圆周角的角平分线也平分所对的弧](solving/Pythagorea60/12.10.png)
-- 12.11 BLOCKED
+- 12.11 [角平分线。解：以圆心为中点作边的平行线，平行线的中心线必然平分所对应的弧](solving/Pythagorea60/12.11.png)
+- 12.12 [角平分线。解：以圆心为中点作边的平行线，平行线的中心线必然平分所对应的弧](solving/Pythagorea60/12.12.png)
 
 #### § 14 Pythagoras Theorem
 - 14.02 [求√13边长的等边三角形。解：勾股定理，这条斜边为√13](solving/Pythagorea60/14.02.png)
@@ -45,6 +46,8 @@
 - 17.7 [过A点3等分正u主边形](solving/Pythagorea60/17.07.png)
 - 17.8 [画一个面积是正三角形3倍的正三角形](solving/Pythagorea60/17.08.png)
 - 17.9 [画一个面积最小的内三解。解：连接平分线中点](solving/Pythagorea60/17.09.png)
+- 17.10 [画一个矩形面积和三角形相等。解：计算面积](solving/Pythagorea60/17.10.png)
+- 17.11 BLOCKED
 
 #### § 18 Perpendicular Bisectors
 - 18.7 BLOCKED
