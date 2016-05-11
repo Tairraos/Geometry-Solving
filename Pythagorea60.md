@@ -46,11 +46,21 @@
 - 17.7 [过A点3等分正u主边形](solving/Pythagorea60/17.07.png)
 - 17.8 [画一个面积是正三角形3倍的正三角形](solving/Pythagorea60/17.08.png)
 - 17.9 [画一个面积最小的内三解。解：连接平分线中点](solving/Pythagorea60/17.09.png)
-- 17.10 [画一个矩形面积和三角形相等。解：计算面积](solving/Pythagorea60/17.10.png)
-- 17.11 BLOCKED
+- 17.10 [画一个矩形面积和三角形相等。解：计算面积，宽3又1/2](solving/Pythagorea60/17.10.png)
+- 17.11 [画一个矩形面积和三角形相等。解：计算面积，宽3又1/4](solving/Pythagorea60/17.11.png)
 
 #### § 18 Perpendicular Bisectors
-- 18.7 BLOCKED
+- 18.1 [画中垂线。解：勾股定理，60度位置画一样长的线，连接顶点和线段中点。](solving/Pythagorea60/18.01.png)
+- 18.2 [画中垂线。解：勾股定理，60度位置画一样长的线，连接顶点和线段中点。](solving/Pythagorea60/18.02.png)
+- 18.3 [画中垂线。解：找线段两个顶点距离一样的点，连接中点。](solving/Pythagorea60/18.03.png)
+- 18.4 [画中垂线。解：勾股定理，60度位置画一样长的线，连接顶点和线段中点。](solving/Pythagorea60/18.04.png)
+- 18.5 [求外接圆圆心。解：中垂线交点。](solving/Pythagorea60/18.05.png)
+- 18.6 [求外接圆圆心。解：中垂线交点。](solving/Pythagorea60/18.06.png)
+- 18.7 [画中垂线。解：勾股定理，60度位置画一样长的线，找到顶点。](solving/Pythagorea60/18.07.png)
+- 18.8 [画中垂线。解：勾股定理，60度位置画一样长的线，连接顶点和线段中点。](solving/Pythagorea60/18.08.png)
+- 18.9 [画中垂线。解：中垂线交点。](solving/Pythagorea60/18.09.png)
+- 18.10 [画中垂线。解：找线段两个顶点距离一样的点，连接中点。](solving/Pythagorea60/18.10.png)
+- 18.11 [画中垂线。解：找线段两个顶点距离一样的点，连接中点。](solving/Pythagorea60/18.11.png)
 
 #### § 19 Perpendiculars
 - 19.8 BLOCKED
