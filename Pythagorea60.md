@@ -50,23 +50,34 @@
 - 17.11 [画一个矩形面积和三角形相等。解：计算面积，宽3又1/4](solving/Pythagorea60/17.11.png)
 
 #### § 18 Perpendicular Bisectors
-- 18.1 [画中垂线。解：勾股定理，60度位置画一样长的线，连接顶点和线段中点。](solving/Pythagorea60/18.01.png)
-- 18.2 [画中垂线。解：勾股定理，60度位置画一样长的线，连接顶点和线段中点。](solving/Pythagorea60/18.02.png)
+- 18.1 [画中垂线。解：60度位置画一样长的线，连接顶点和线段中点。](solving/Pythagorea60/18.01.png)
+- 18.2 [画中垂线。解：60度位置画一样长的线，连接顶点和线段中点。](solving/Pythagorea60/18.02.png)
 - 18.3 [画中垂线。解：找线段两个顶点距离一样的点，连接中点。](solving/Pythagorea60/18.03.png)
-- 18.4 [画中垂线。解：勾股定理，60度位置画一样长的线，连接顶点和线段中点。](solving/Pythagorea60/18.04.png)
+- 18.4 [画中垂线。解：60度位置画一样长的线，连接顶点和线段中点。](solving/Pythagorea60/18.04.png)
 - 18.5 [求外接圆圆心。解：中垂线交点。](solving/Pythagorea60/18.05.png)
 - 18.6 [求外接圆圆心。解：中垂线交点。](solving/Pythagorea60/18.06.png)
-- 18.7 [画中垂线。解：勾股定理，60度位置画一样长的线，找到顶点。](solving/Pythagorea60/18.07.png)
-- 18.8 [画中垂线。解：勾股定理，60度位置画一样长的线，连接顶点和线段中点。](solving/Pythagorea60/18.08.png)
+- 18.7 [画中垂线。解：60度位置画一样长的线，找到顶点。](solving/Pythagorea60/18.07.png)
+- 18.8 [画中垂线。解：60度位置画一样长的线，连接顶点和线段中点。](solving/Pythagorea60/18.08.png)
 - 18.9 [画中垂线。解：中垂线交点。](solving/Pythagorea60/18.09.png)
-- 18.10 [画中垂线。解：勾股定理，1/4处60度位置画一半长的线，连接顶点和线段中点。](solving/Pythagorea60/18.10.png)
-- 18.11 [画中垂线。解：勾股定理，1/4处60度位置画一半长的线，连接顶点和线段中点。](solving/Pythagorea60/18.11.png)
+- 18.10 [画中垂线。解：1/4处60度位置画一半长的线，连接顶点和线段中点。](solving/Pythagorea60/18.10.png)
+- 18.11 [画中垂线。解：1/4处60度位置画一半长的线，连接顶点和线段中点。](solving/Pythagorea60/18.11.png)
 - 18.12 [画中垂线。解：中垂线交点。](solving/Pythagorea60/18.12.png)
 - 18.13 [画中垂线。解：中垂线交点。](solving/Pythagorea60/18.13.png)
 - 18.14 [画中垂线。解：中垂线交点。](solving/Pythagorea60/18.14.png)
 
 #### § 19 Perpendiculars
-- 19.8 BLOCKED
+- 19.1 [过点作点垂线。](solving/Pythagorea60/19.01.png)
+- 19.4 [过点作点垂线。](solving/Pythagorea60/19.04.png)
+- 19.5 [过点作点垂线。](solving/Pythagorea60/19.05.png)
+- 19.6 [过点作点垂线。](solving/Pythagorea60/19.06.png)
+- 19.7 [过点作点垂线。](solving/Pythagorea60/19.07.png)
+- 19.8 [过点作点垂线。](solving/Pythagorea60/19.08.png)
+- 19.9 [过点作点垂线。](solving/Pythagorea60/19.09.png)
+- 19.10 [过点作点垂线。](solving/Pythagorea60/19.10.png)
+- 19.11 [过点作点垂线。](solving/Pythagorea60/19.11.png)
+- 19.12 [过点作点垂线。](solving/Pythagorea60/19.12.png)
+- 19.13 [过点作点垂线。](solving/Pythagorea60/19.13.png)
+- 19.14 [过点作点垂线。](solving/Pythagorea60/19.14.png)
 
 #### § 20 Altitudes
 - 20.1 BLOCKED
