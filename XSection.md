@@ -28,12 +28,12 @@
 #### § PRACTICE
 - 3.1.1 [连接点和它的投影](solving/XSection/3.1.1.png)
 - 3.1.2 [连接线和它的投影](solving/XSection/3.1.2.png)
-- 3.1.3 [求点在底面上的投影](solving/XSection/3.1.3.png)
-- 3.1.4 [求点在底面上的投影](solving/XSection/3.1.4.png)
-- 3.1.5 [求点在底面上的投影](solving/XSection/3.1.5.png)
-- 3.1.6 [求点在底面上的投影](solving/XSection/3.1.6.png)
-- 3.1.7 [求每个面的中点](solving/XSection/3.1.7.png)
-- 3.1.8 [给出底面的投影求作顶面的点](solving/XSection/3.1.8.png)
+- 3.1.3 [作点在底面上的投影](solving/XSection/3.1.3.png)
+- 3.1.4 [作点在底面上的投影](solving/XSection/3.1.4.png)
+- 3.1.5 [作点在底面上的投影](solving/XSection/3.1.5.png)
+- 3.1.6 [作点在底面上的投影](solving/XSection/3.1.6.png)
+- 3.1.7 [作每个面的中点](solving/XSection/3.1.7.png)
+- 3.1.8 [给出底面的投影作顶面的点](solving/XSection/3.1.8.png)
 - 3.2.1 [作通过两点的线在底面上的痕迹](solving/XSection/3.2.1.png)
 - 3.2.2 [作通过两点的线在底面上的痕迹](solving/XSection/3.2.2.png)
 - 3.2.3 [作截面在底面上的痕迹](solving/XSection/3.2.3.png)
@@ -41,7 +41,18 @@
 - 3.2.5 [作截面在底面上的痕迹](solving/XSection/3.2.5.png)
 - 3.2.6 [作截面在底面上的痕迹](solving/XSection/3.2.6.png)
 - 3.2.7 [作给定三点所确定的截面在底面上的痕迹](solving/XSection/3.2.7.png)
-
+- 3.2.8 [作给定三点所确定的截面在底面和顶面上的痕迹](solving/XSection/3.2.8.png)
+- 3.3.1 [作过给定点和底面平行的切面](solving/XSection/3.3.1.png)
+- 3.3.2 [作通过给定三点的截面](solving/XSection/3.3.2.png)
+- 3.3.3 [作通过给定三点的截面](solving/XSection/3.3.3.png)
+- 3.3.4 [作通过给定三点的截面](solving/XSection/3.3.4.png)
+- 3.3.5 [给定一点和截面的投影求截面](solving/XSection/3.3.5.png)
+- 3.3.6 [作通过给定三点的截面](solving/XSection/3.3.6.png)
+- 3.3.7 [作通过给定三点的截面](solving/XSection/3.3.7.png)
+- 3.3.8 [作通过给定三点的截面](solving/XSection/3.3.8.png)
+- 3.3.9 [给定一点和截面的投影求截面](solving/XSection/3.3.9.png)
+- 3.3.10 [作通过给定三点的截面](solving/XSection/3.3.10.png)
+- 3.3.11 [作通过给定三点的截面](solving/XSection/3.3.11.png)
 
 
 
