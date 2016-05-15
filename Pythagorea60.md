@@ -16,7 +16,7 @@
 - 12.12 [角平分线。解：以圆心为中点作边的平行线，平行线的中心线必然平分所对应的弧](solving/Pythagorea60/12.12.png)
 
 #### § 14 Pythagoras Theorem
-- 14.02 [求√13边长的等边三角形。解：勾股定理，这条斜边为√13](solving/Pythagorea60/14.02.png)
+- 14.02 [作√13边长的等边三角形。解：勾股定理，这条斜边为√13](solving/Pythagorea60/14.02.png)
 - 14.03 [过点画出所有√7长度的线段。解：勾股定理，这条斜边为√7](solving/Pythagorea60/14.03.png)
 - 14.05 [画一条距离为√7的平行线。解：见上题，这条垂线长度为√7](solving/Pythagorea60/14.05.png)
 - 14.06 [作长度为√19的等边三角形。解：勾股定理，这条斜边为√19](solving/Pythagorea60/14.06.png)
@@ -25,9 +25,9 @@
 
 #### § 15 Hexagons
 - 15.6 [做边长为3的六边形。](solving/Pythagorea60/15.06.png)
-- 15.7 [给定对角线求六边形。解：在对角线两端作60度角，边长为线段的一半](solving/Pythagorea60/15.07.png)
-- 15.8 [给字三个顶点求六边形。解：用任2个顶点向外做正三角形，中线的交点即为六边形顶点](solving/Pythagorea60/15.08.png)
-- 15.9 [给定对角线求六边形。解：在对角线两端作60度角，边长为线段的一半](solving/Pythagorea60/15.09.png)
+- 15.7 [给定对角线作六边形。解：在对角线两端作60度角，边长为线段的一半](solving/Pythagorea60/15.07.png)
+- 15.8 [给字三个顶点作六边形。解：用任2个顶点向外做正三角形，中线的交点即为六边形顶点](solving/Pythagorea60/15.08.png)
+- 15.9 [给定对角线作六边形。解：在对角线两端作60度角，边长为线段的一半](solving/Pythagorea60/15.09.png)
 
 #### § 16 Length And Proportions
 - 16.1 [三等分线段。解：用图中的长斜线把线段看成3个单位](solving/Pythagorea60/16.01.png)
@@ -54,8 +54,8 @@
 - 18.2 [画中垂线。解：60度位置画一样长的线，连接顶点和线段中点。](solving/Pythagorea60/18.02.png)
 - 18.3 [画中垂线。解：找线段两个顶点距离一样的点，连接中点。](solving/Pythagorea60/18.03.png)
 - 18.4 [画中垂线。解：60度位置画一样长的线，连接顶点和线段中点。](solving/Pythagorea60/18.04.png)
-- 18.5 [求外接圆圆心。解：中垂线交点。](solving/Pythagorea60/18.05.png)
-- 18.6 [求外接圆圆心。解：中垂线交点。](solving/Pythagorea60/18.06.png)
+- 18.5 [找出外接圆圆心。解：中垂线交点。](solving/Pythagorea60/18.05.png)
+- 18.6 [找出外接圆圆心。解：中垂线交点。](solving/Pythagorea60/18.06.png)
 - 18.7 [画中垂线。解：60度位置画一样长的线，找到顶点。](solving/Pythagorea60/18.07.png)
 - 18.8 [画中垂线。解：60度位置画一样长的线，连接顶点和线段中点。](solving/Pythagorea60/18.08.png)
 - 18.9 [画中垂线。解：中垂线交点。](solving/Pythagorea60/18.09.png)
@@ -73,17 +73,42 @@
 - 19.7 [过点作点垂线。](solving/Pythagorea60/19.07.png)
 - 19.8 [过点作点垂线。](solving/Pythagorea60/19.08.png)
 - 19.9 [过点作点垂线。](solving/Pythagorea60/19.09.png)
-- 19.10 [过点作点垂线。](solving/Pythagorea60/19.10.png)
-- 19.11 [过点作点垂线。](solving/Pythagorea60/19.11.png)
-- 19.12 [过点作点垂线。](solving/Pythagorea60/19.12.png)
-- 19.13 [过点作点垂线。](solving/Pythagorea60/19.13.png)
-- 19.14 [过点作点垂线。](solving/Pythagorea60/19.14.png)
+- 19.10 [找一对垂直的连线。](solving/Pythagorea60/19.10.png)
+- 19.11 [找一对垂直的连线。](solving/Pythagorea60/19.11.png)
+- 19.12 [找一对垂直的连线。](solving/Pythagorea60/19.12.png)
+- 19.13 [过点作点垂线。解：找到一条垂线，然后过点作平行线。](solving/Pythagorea60/19.13.png)
 
 #### § 20 Altitudes
-- 20.1 BLOCKED
+- 20.1 [找出所有的高。](solving/Pythagorea60/20.01.png)
+- 20.2 [找出所有的高。](solving/Pythagorea60/20.02.png)
+- 20.3 [找出垂心。解：任意作两条高取交点。](solving/Pythagorea60/20.03.png)
+- 20.4 [找出垂心。解：任意作两条高取交点。](solving/Pythagorea60/20.04.png)
+- 20.5 [找出垂心。解：任意作两条高取交点。](solving/Pythagorea60/20.05.png)
+- 20.6 [找出垂心。解：任意作两条高取交点。](solving/Pythagorea60/20.06.png)
+- 20.7 [找出垂心。解：任意作两条高取交点。](solving/Pythagorea60/20.07.png)
+- 20.8 [找出垂心。解：任意作两条高取交点。](solving/Pythagorea60/20.08.png)
 
 #### § 21 Rhombuses
-- 21.12 BLOCKED
+- 21.3 [给定菱形的两个顶点，作出所有可能的菱形。](solving/Pythagorea60/21.03.png)
+- 21.4 [给定菱形的两个顶点，作出所有可能的菱形。](solving/Pythagorea60/21.04.png)
+- 21.5 [给定菱形的两个对顶点，作出所有可能的菱形。](solving/Pythagorea60/21.05.png)
+- 21.6 [找到四个可以连线成菱形的点。](solving/Pythagorea60/21.06.png)
+- 21.7 [给定菱形的两个节点，作出所有对角线长为6的菱形。](solving/Pythagorea60/21.07.png)
+- 21.8 [作出所有顶点在节点上，对角线长为3√7的菱形。](solving/Pythagorea60/21.08.png)
+- 21.9 [给定一个顶点，作出所有对角线长为3√3和1的菱形。](solving/Pythagorea60/21.09.png)
+- 21.10 [给定一个顶点，作出所有对角线长为4的菱形。](solving/Pythagorea60/21.10.png)
+- 21.11 [给定一个顶点，作出所有对角线长为5的菱形。](solving/Pythagorea60/21.11.png)
+- 21.12 [给定一个顶点A和一条边的中点S，作菱形。](solving/Pythagorea60/21.12.png)
+- 21.13 [给定两条邻边的中点作所有可能的菱形。](solving/Pythagorea60/21.13.png)
+- 21.14 [给定一个顶点和两条邻边的中点，作菱形。](solving/Pythagorea60/21.14.png)
+- 21.15 [给定一个顶点A和中点D，作出所有可能的菱形。](solving/Pythagorea60/21.15.png)
+- 21.16 [找到四个可以连线成菱形的点。](solving/Pythagorea60/21.16.png)
+- 21.17 [给定两条邻边的中点，作菱形。](solving/Pythagorea60/21.17.png)
+- 21.18 [找到四个可以连线成菱形的点。](solving/Pythagorea60/21.18.png)
+- 21.19 [作矩形内接共用对角线的菱形。](solving/Pythagorea60/21.19.png)
+- 21.20 [作矩形内接共用对角线的菱形。](solving/Pythagorea60/21.20.png)
+- 21.21 [作顶点为A的菱形内接菱形。](solving/Pythagorea60/21.21.png)
+- 21.22 [作顶点为A的菱形内接菱形。](solving/Pythagorea60/21.22.png)
 
 #### § 22 Tangents
 - 22.8 BLOCKED
