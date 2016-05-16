@@ -109,8 +109,20 @@
 - 21.20 [作矩形内接共用对角线的菱形。](solving/Pythagorea60/21.20.png)
 - 21.21 [作顶点为A的菱形内接菱形。](solving/Pythagorea60/21.21.png)
 - 21.22 [作顶点为A的菱形内接菱形。](solving/Pythagorea60/21.22.png)
+- 21.23 [作顶点为A的菱形内接菱形。](solving/Pythagorea60/21.23.png)
+- 21.24 [作顶点为A的菱形内接菱形。](solving/Pythagorea60/21.24.png)
+- 21.25 [作顶点为A的菱形内接菱形。](solving/Pythagorea60/21.25.png)
+- 21.26 [作顶点为A的菱形内接菱形。](solving/Pythagorea60/21.26.png)
+- 21.27 [作顶点为A的菱形内接菱形。](solving/Pythagorea60/21.27.png)
 
 #### § 22 Tangents
+- 22.1 [作过A点的切线。](solving/Pythagorea60/22.01.png)
+- 22.2 [作过A点的切线。](solving/Pythagorea60/22.02.png)
+- 22.3 [作过A点的切线。](solving/Pythagorea60/22.03.png)
+- 22.4 [作两个圆的共用切线。](solving/Pythagorea60/22.04.png)
+- 22.5 [作过A点的切线。](solving/Pythagorea60/22.05.png)
+- 22.6 [作两个圆的共用内切线。](solving/Pythagorea60/22.06.png)
+- 22.7 [作两个圆的共用外切线。](solving/Pythagorea60/22.07.png)
 - 22.8 BLOCKED
 
 #### § 23 Symmetry
