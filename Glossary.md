@@ -57,6 +57,7 @@
 |proportions|均衡|
 |pyramids|棱椎|
 |pythagoras|勾股/毕达哥拉斯 定理|
+|quadrangle|四边形|
 |ray|射线|
 |rectangle|矩形|
 |reflect|映射|
@@ -78,5 +79,6 @@
 |triangle|三角形|
 |trisection|三等分|
 |vertex(vertices)|顶点|
+
 
 
