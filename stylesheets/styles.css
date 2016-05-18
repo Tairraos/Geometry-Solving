@@ -367,24 +367,3 @@ footer p + p {
         float: none;
     }
 }
-
-@media print, screen and (max-width: 580px) {
-    header ul {
-        display: none;
-    }
-
-    header p.view {
-        display: block;
-    }
-
-    header p {
-        width: 100%;
-    }
-}
-
-@media print {
-    header p.view a small:before {
-        content: 'at https://github.com/';
-    }
-}
-
