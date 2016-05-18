@@ -126,10 +126,17 @@
 - 22.8 BLOCKED
 
 #### § 23 Symmetry
-- 23.1 BLOCKED
+- 23.1 [以AB为轴作对称角。](solving/Pythagorea60/23.01.png)
+- 23.2 [以AB为轴作对称角。](solving/Pythagorea60/23.02.png)
+- 23.3 [找出所有的轴心，要求一条已知线段绕轴心旋转可以得到另1条。](solving/Pythagorea60/23.03.png)
+- 23.4 [以AB为轴作对称角。](solving/Pythagorea60/23.04.png)
+- 23.5 [以AB为轴作对称角。](solving/Pythagorea60/23.05.png)
+- 23.6 [以AB为轴作对称角。](solving/Pythagorea60/23.06.png)
 
 #### § 24 Extra
-- 24.3 BLOCKED
+- 24.1 [给定一条边求等边三角形。](solving/Pythagorea60/24.01.png)
+- 24.2 [找出所有和三条线等距的点。](solving/Pythagorea60/24.02.png)
+- 24.3 [找出所有和三条线等距的点。](solving/Pythagorea60/24.03.png)
 
 
 
