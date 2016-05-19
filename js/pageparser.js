@@ -23,7 +23,7 @@
             if (url && $link.is('[data-img]')) {
                 $link.after('<br><img src="' + url + '" style="display:block;">');
                 $link.removeAttr('data-img');
-            } else if($link.next().next().is(':visible')){
+            } else if ($link.next().next().is(':visible')) {
                 $link.next().hide().next().hide();
             } else {
                 $link.next().show().next().show();
@@ -36,5 +36,16 @@
             $(this).click(fnTitleClicked);
         });
 
+    });
+
+    var $ul = $('header ul'), topUl = parseInt($(document.body).css('padding-top')) >= 50 ? 112 : 62,
+        currentUlFixStatus = false, shouldUlFixStatus = false;
+    $(window).scroll(function () {
+        shouldUlFixStatus = ($(document.body).scrollTop() > topUl );
+        if (currentUlFixStatus !== shouldUlFixStatus) {
+            currentUlFixStatus = shouldUlFixStatus;
+            $ul.css({position: shouldUlFixStatus ? 'fixed' : 'relative'})
+        }
     })
+
 }(jQuery));
