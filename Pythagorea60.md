@@ -123,7 +123,9 @@
 - 22.5 [作过A点的切线。](solving/Pythagorea60/22.05.png)
 - 22.6 [作两个圆的共用内切线。](solving/Pythagorea60/22.06.png)
 - 22.7 [作两个圆的共用外切线。](solving/Pythagorea60/22.07.png)
-- 22.8 BLOCKED
+- 22.8 [作两个圆的共用内切线。](solving/Pythagorea60/22.08.png)
+- 22.9 [作两个圆的共用外切线。](solving/Pythagorea60/22.09.png)
+- 22.10 BLOCKED
 
 #### § 23 Symmetry
 - 23.1 [以AB为轴作对称角。](solving/Pythagorea60/23.01.png)
