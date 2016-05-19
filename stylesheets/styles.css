@@ -111,7 +111,7 @@ header ul {
     position: relative;
     z-index: 1;
     display: block;
-    width: 320px;
+    width: 360px;
     top: 15px;
     height: 38px;
     padding: 1px 0;
@@ -148,10 +148,10 @@ header ul:before {
 }
 
 header ul li {
-    width: 101px;
     float: left;
     border-right: 1px solid #3A7CBE;
     height: 38px;
+	width:;
 }
 
 header ul li.single {
@@ -159,13 +159,11 @@ header ul li.single {
 }
 
 header ul li + li {
-    width: 100px;
     border-left: 1px solid #8BBEF3;
 }
 
 header ul li + li + li {
     border-right: none;
-    width: 101px;
 }
 
 header ul a {
