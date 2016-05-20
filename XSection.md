@@ -92,6 +92,13 @@
 - 3.5.9 [求作两点，三等分顶垂线](solving/XSection/3.5.9.png)
 - 3.5.10 [作平行于底面的截面，面积为底面的1/9](solving/XSection/3.5.10.png)
 - 3.5.11 [求通过两点并于给定线段平行的截面](solving/XSection/3.5.11.png)
+- 3.5.12 [求通过三点的截面](solving/XSection/3.5.12.png)
+- 3.5.13 [求通过三点的截面](solving/XSection/3.5.13.png)
+- 3.5.14 [求通过给定两点和中垂线中点的截面](solving/XSection/3.5.14.png)
+- 3.5.15 [求通过两点并垂直于底面的截面](solving/XSection/3.5.15.png)
+- 3.5.16 [求通过给定点并与两条给定线段平行的截面](solving/XSection/3.5.16.png)
+- 3.5.17 [求通过给定两边中点并垂直于底面的截面](solving/XSection/3.5.17.png)
+- 3.5.18 [求通过底面中点和给定两条边中点的截面](solving/XSection/3.5.18.png)
 
 
 
