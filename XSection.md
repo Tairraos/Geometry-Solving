@@ -1,6 +1,9 @@
 ### XSection解法
 对应 Apple app store 里的 XSection 游戏
 
+#### § [解题开始](solving/XSection/start.png)
+- 简单的题目被略过
+
 #### § BASICS
 - 1.1.1 [和给定线相交的线](solving/XSection/1.1.1.png)
 - 1.1.3 [和给定线平等的线](solving/XSection/1.1.3.png)
@@ -100,5 +103,6 @@
 - 3.5.17 [求通过给定两边中点并垂直于底面的截面](solving/XSection/3.5.17.png)
 - 3.5.18 [求通过底面中点和给定两条边中点的截面](solving/XSection/3.5.18.png)
 
+#### § [全部解题完成](solving/XSection/done.png)
 
 
