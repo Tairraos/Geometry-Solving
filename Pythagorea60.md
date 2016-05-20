@@ -1,6 +1,9 @@
 ### Pythagorea60 解法
 对应 Apple app store 里的 Pythagorea60 游戏
 
+#### § [解题开始](solving/Pythagorea60/start.png)
+- 前10章相对简单，前10章和章节内简单的题目被略过。
+- 
 #### § 11 Angle
 - 11.8 [沿AB映射给定的角](solving/Pythagorea60/11.08.png)
 
@@ -125,12 +128,13 @@
 - 22.7 [作两个圆的共用外切线。](solving/Pythagorea60/22.07.png)
 - 22.8 [作两个圆的共用内切线。](solving/Pythagorea60/22.08.png)
 - 22.9 [作两个圆的共用外切线。](solving/Pythagorea60/22.09.png)
-- 22.10 BLOCKED
+- 22.10 [作过A点的切线。](solving/Pythagorea60/22.10.png)
+- 22.11 [作过A点的切线。](solving/Pythagorea60/22.11.png)
 
 #### § 23 Symmetry
 - 23.1 [以AB为轴作对称角。](solving/Pythagorea60/23.01.png)
 - 23.2 [以AB为轴作对称角。](solving/Pythagorea60/23.02.png)
-- 23.3 [找出所有的轴心，要求一条已知线段绕轴心旋转可以得到另1条。](solving/Pythagorea60/23.03.png)
+- 23.3 [找出轴心点，给定线段可以绕轴心旋转后重合。](solving/Pythagorea60/23.03.png)
 - 23.4 [以AB为轴作对称角。](solving/Pythagorea60/23.04.png)
 - 23.5 [以AB为轴作对称角。](solving/Pythagorea60/23.05.png)
 - 23.6 [以AB为轴作对称角。](solving/Pythagorea60/23.06.png)
@@ -140,7 +144,6 @@
 - 24.2 [找出所有和三条线等距的点。](solving/Pythagorea60/24.02.png)
 - 24.3 [找出所有和三条线等距的点。](solving/Pythagorea60/24.03.png)
 
-
-
+#### § [全部解题完成](solving/Pythagorea60/done.png)
 
 
