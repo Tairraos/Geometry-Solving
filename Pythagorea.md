@@ -1,6 +1,9 @@
 ### Pythagorea 解法
 对应 Apple app store 里的 Pythagorea 游戏
 
+#### § [解题开始](solving/Pythagorea/start.png)
+- 前5章相对简单，前5章和章节内简单的题目被略过。
+
 #### § 6 Diffcult
 - 6.3 [画直线等分两个矩形](solving/Pythagorea/6.3.png)
 - 6.10 [过节点A画垂线](solving/Pythagorea/6.10.png)
@@ -68,5 +71,7 @@
 - 10.28 [切线](solving/Pythagorea/10.28.png)
 - 10.29 [切线。解：切点弦方程](solving/Pythagorea/10.29.png)
 - 10.30 [切线。解：切点弦方程](solving/Pythagorea/10.30.png)
+
+#### § [全部解题完成](solving/Pythagorea/done.png)
 
 
