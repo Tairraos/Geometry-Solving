@@ -203,7 +203,7 @@ section {
     position: relative;
 }
 
-section ul a {
+section.euclidea3 ul a {
     background: url(fig.png) 100% 50%/12px 14px no-repeat;
     padding-right: 14px;
 }
