@@ -1,6 +1,9 @@
 ### Euclidea 3 解法  
 对应 Apple app store 里的 Euclidea 3 游戏  
 
+#### § [解题开始](solving/Euclidea3/start.png)
+- 内简单的题目被略过。
+
 #### § 1.Alpha 普通⭐:36，隐藏⭐:3，全解完成  
 
 - 教程：直线工具  
