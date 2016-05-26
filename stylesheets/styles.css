@@ -202,9 +202,13 @@ section.euclidea3 ul a.showfig {
 }
 
 em, em a {
-    color: #9C4D0E;
+    color: #069;
     font-size: 80%;
     font-weight: bold;
+}
+
+em.unresolve {
+    color:#900;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -212,6 +216,10 @@ h1, h2, h3, h4, h5, h6 {
     padding: 0;
     margin: 10px 0 20px;
     line-height: 1.2;
+}
+
+h4.allsolved{
+    text-shadow: 0 0 2px #FF4;
 }
 
 ul, ol, table, pre, dl {
@@ -304,6 +312,6 @@ footer p + p {
     float: right;
 }
 
-.briefH4{
+.briefH4 {
     margin: 10px 0 5px;
 }

@@ -25,7 +25,17 @@
                 $ul.addClass('brief');
                 $('a', $ul).removeClass('showfig').attr('target','_blank');
             }
+            if (/全解完成$/.test($(this).text())) {
+                $(this).addClass('allsolved');
+            }
         });
+
+        $('em', mdContainer).each(function () {
+            if (/还没想出来。$/.test($(this).text())) {
+                $(this).addClass('unresolve');
+            }
+        });
+
 
         //修改链接功能
         var fnTitleClicked = function (ele) {
