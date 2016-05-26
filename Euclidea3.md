@@ -3,6 +3,7 @@
 
 #### § [解题开始](solving/Euclidea3/start.png)
 - 内简单的题目被略过。
+- 感谢贡献难题解答的同学：[@fatevivid](https://github.com/fatevivid)
 
 #### § 1.Alpha 普通⭐:36，隐藏⭐:3，全解完成  
 
@@ -97,7 +98,7 @@ _注：2V，上下可各画一个角度线得到隐藏星星。_
 
 - 3.2 已知垂心求三角形 3L 6E  
 解：[3L，过点分别做2条边的垂线。](solving/Euclidea3/3.2.1.png)  
-*解：6E解答还没想出来。*  
+解：[6E，如图，用弦内接线过点分别做2条边的垂线。](solving/Euclidea3/3.2.2.png)  
 
 - 3.3 已知外心求三角形 2L 2E  
 解：[2L2E，如图作圆。](solving/Euclidea3/3.3.png)  
@@ -107,15 +108,15 @@ _注：2V，上下可各画一个角度线得到隐藏星星。_
 _注：[2V，作出左右各一个解得到隐藏星星。](solving/Euclidea3/3.4.2.png)_  
 
 - 3.5 已经切线和圆上一点求圆 3L 6E  
-解：[3L，作AB和垂分线，过B做垂线，得到交点O，作圆。](solving/Euclidea3/3.5.png)  
-*解：6E解答还没想出来。*  
+解：[3L，作AB和垂分线，过B做垂线，得到交点O，作圆。](solving/Euclidea3/3.5.1.png)  
+解：[6E，1.如图作得过B点垂线；](solving/Euclidea3/3.5.2.png)[再作圆得AB的垂分线，得到交点O，作圆。](solving/Euclidea3/3.5.3.png)  
 
 - 教程：移动工具  
 解：简单题，略。	  
 
 - 3.6 梯形中线 3L 5E  
-解：[3L，作两条边的垂分线。](solving/Euclidea3/3.6.png)  
-*解：5E解答还没想出来。*  
+解：[3L，作两条边的垂分线。](solving/Euclidea3/3.6.1.png)  
+解：[5E，梯型中线也是三角型的中线。](solving/Euclidea3/3.6.2.png)  
 
 - 3.7 作45度角 2L 5E 2V ⭐  
 解：[2L，作点做垂线，然后角平分线工具平分直角。](solving/Euclidea3/3.7.1.png)  
@@ -123,7 +124,8 @@ _注：[2V，作出左右各一个解得到隐藏星星。](solving/Euclidea3/3.
 _注：2V，上下可各画一个角度线得到隐藏星星。_  
 
 - 3.8 菱形 5L 7E 4V ⭐  
-*解：5L7E解答还没想出来。*  
+解：[5L，1.以AB为半径作圆；2.过A作垂分；3.过C作垂线；4.连接AC和BD。](solving/Euclidea3/3.8.1.png)  
+*解：7E解答还没想出来。*  
 _注：[4V，左右上下可各画一个菱形得到隐藏星星。](solving/Euclidea3/3.8.3.png)_  
 
 #### § 4.Delta 普通⭐:33，隐藏⭐:4，努力求全解中...  
