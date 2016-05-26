@@ -16,6 +16,17 @@
             }
         });
 
+        $('a', mdContainer).addClass('showfig');
+
+        $('h4', mdContainer).each(function () {
+            if (/解题开始$/.test($(this).text())) {
+                var $ul = $(this).next('ul').eq(0);
+                $(this).addClass('briefH4');
+                $ul.addClass('brief');
+                $('a', $ul).removeClass('showfig').attr('target','_blank');
+            }
+        });
+
         //修改链接功能
         var fnTitleClicked = function (ele) {
             var url = $(this).attr('data-img'),
@@ -29,17 +40,19 @@
                 $link.next().show().next().show();
             }
         };
-        $('a', mdContainer).each(function () {
+        $('a.showfig', mdContainer).each(function () {
             var url = $(this).attr('href');
             $(this).attr('href', 'javascript:;');
             $(this).attr('data-img', url);
             $(this).click(fnTitleClicked);
         });
 
+
     });
 
     var $ul = $('header ul'), topUl = parseInt($(document.body).css('padding-top')) >= 50 ? 112 : 62,
         currentUlFixStatus = false, shouldUlFixStatus = false;
+
     $(window).scroll(function () {
         shouldUlFixStatus = ($(document.body).scrollTop() > topUl );
         if (currentUlFixStatus !== shouldUlFixStatus) {
