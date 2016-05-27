@@ -315,3 +315,29 @@ footer p + p {
 .briefH4 {
     margin: 10px 0 5px;
 }
+
+@media print, screen and (max-width: 740px) {
+    body {
+        padding: 0;
+    }
+
+    .wrapper {
+        box-shadow: none;
+        width: 100%;
+    }
+
+    footer {
+        border-radius: 0;
+        padding: 20px;
+        width: auto;
+    }
+
+    footer p {
+        float: none;
+        margin: 0;
+    }
+
+    footer p + p {
+        float: none;
+    }
+}
