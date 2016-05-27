@@ -152,7 +152,7 @@ _注：[2V，左右各画一个角度得到隐藏星星。](solving/Euclidea3/4.
 解：[5L5E，连接两个矩形中点。](solving/Euclidea3/4.5.png)  
 
 - 4.6 距离√2的点 *3L 5E*  
-*解：3L5E解答还没想出来。*  
+解：[5L5E，过A作垂线和圆；OA和AB长度都是1，OB即为√2。以OB为半径作圆可得C。](solving/Euclidea3/4.6.png)  
 
 - 4.7 距离√3的点 *3L 3E*  
 *解：3L3E解答还没想出来。*  
