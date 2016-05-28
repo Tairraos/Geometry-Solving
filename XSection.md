@@ -3,6 +3,8 @@
 
 #### § [解题开始](solving/XSection/start.png)
 - 简单的题目被略过
+- 感谢贡献难题解答的同学：[@Matthew](https://github.com/csshz)  
+- 欢迎大家一起来解题： https://github.com/Tairraos/Geometry-Solving
 
 #### § BASICS
 - 1.1.1 [和给定线相交的线](solving/XSection/1.1.1.png)
