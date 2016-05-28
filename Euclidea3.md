@@ -177,14 +177,14 @@ _注：[2V，上下各做一正方形得到隐藏星星。](solving/Euclidea3/4.
 
 - 5.1 过点做平行线 *2L 4E*  
 解：[2L，两次垂线工具可得平行线。](solving/Euclidea3/5.1.1.png)  
-*解：4E解答还没想出来。*  
+*解：[4E解答还没想出来。](solving/Euclidea3/5.1.2.png)*  
 
 - 教程：平行线工具 *1L 4E*  
 解：简单题，略。  
 
 - 5.2 给定三点做平行四边形 *4L 8E 3V* ⭐  
 解：[4L，两次平行线工具可得平行四边形。](solving/Euclidea3/5.2.1.png)  
-*解：8E解答还没想出来。*  
+*解：[8E解答还没想出来。](solving/Euclidea3/5.2.2.png)*  
 _注：[3V，左右下各做一平行四边形得到隐藏星星。](solving/Euclidea3/5.2.3.png)_  
 
 - 5.3 和两个给定点距离相等的线1 *2L 4E*  
@@ -199,19 +199,20 @@ _注：[3V，左右下各做一平行四边形得到隐藏星星。](solving/Euc
 
 - 5.6 哈希 *2L 4E 2V* ⭐  
 解：[2L6E，作平行线。](solving/Euclidea3/5.6.1.png)  
-*解：4E解答还没想出来。*  
+*解：[4E解答还没想出来。](solving/Euclidea3/5.6.2.png)*  
 _注：[2V，求得2组解得到隐藏星星。](solving/Euclidea3/5.6.3.png)_  
 
 - 5.7 偏移角 *2L 6E*  
 解：[2L，过点作2条平行线。](solving/Euclidea3/5.7.1.png)  
-*解：4E解答还没想出来。*  
+*解：[4E解答还没想出来。](solving/Euclidea3/5.7.2.png)*  
 
 - 5.8 外接正方形 *6L 11E*  
 解：[6L，如图做3条垂线及3条平行线。](solving/Euclidea3/5.8.1.png)  
-*解：11E解答还没想出来。*  
+*解：[11E解答还没想出来。](solving/Euclidea3/5.8.2.png)*  
 
 - 5.9 正方形内的正方形 *6L 7E*  
-*解：6L7E解答还没想出来。*  
+*解：[6L解答还没想出来。](solving/Euclidea3/5.9.1.png)*  
+*解：[7E解答还没想出来。](solving/Euclidea3/5.9.2.png)*  
 
 - 5.10 正六边形 *7L 8E 2V* ⭐  
 解：[7L，如图用平行线和垂分线工具求得上方3条边。](solving/Euclidea3/5.10.1.png)  
