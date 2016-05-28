@@ -33,6 +33,7 @@
         $('em', mdContainer).each(function () {
             if (/还没想出来。$/.test($(this).text())) {
                 $(this).addClass('unresolve');
+                $(this).find('a').addClass('unresolve');
             }
         });
 
