@@ -3,6 +3,7 @@
 
 #### § [解题开始](solving/Pythagorea60/start.png)
 - 前10章相对简单，前10章和章节内简单的题目被略过。
+- 欢迎大家一起来解题： https://github.com/Tairraos/Geometry-Solving
 
 #### § 11 Angle
 - 11.8 [沿AB映射给定的角](solving/Pythagorea60/11.08.png)
