@@ -3,7 +3,7 @@
 
 #### § [解题开始](solving/Euclidea3/start.png)  
 - 内简单的题目被略过。  
-- 感谢贡献难题解答的同学：[@fatevivid](https://github.com/fatevivid)  
+- 感谢贡献难题解答的同学：[@fatevivid](https://github.com/fatevivid), [@gsdevcn](https://github.com/gsdevcn/)
 - 未完成解的题目如果有图示表示已经上传提示
 - 欢迎大家一起来解题：[https://github.com/Tairraos/Geometry-Solving](https://github.com/Tairraos/Geometry-Solving)  
 
@@ -179,7 +179,7 @@ _注：[2V，上下各做一正方形得到隐藏星星。](solving/Euclidea3/4.
 
 - 5.1 过点做平行线 *2L 4E*  
 解：[2L，两次垂线工具可得平行线。](solving/Euclidea3/5.1.1.png)  
-*解：[4E解答还没想出来。](solving/Euclidea3/5.1.2.png)*  
+解：[4E，利用两圆做出对称点。](solving/Euclidea3/5.1.2.png) 
 
 - 教程：平行线工具 *1L 4E*  
 解：简单题，略。  
