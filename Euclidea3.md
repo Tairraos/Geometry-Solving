@@ -5,7 +5,7 @@
 - 内简单的题目被略过。  
 - 感谢贡献难题解答的同学：[@fatevivid](https://github.com/fatevivid)  
 - 未完成解的题目如果有图示表示已经上传提示
-- 欢迎大家一起来解题： https://github.com/Tairraos/Geometry-Solving  
+- 欢迎大家一起来解题：[https://github.com/Tairraos/Geometry-Solving]  
 
 #### § 1.Alpha 普通⭐:36，隐藏⭐:3，全解完成  
 
