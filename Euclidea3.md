@@ -3,9 +3,9 @@
 
 #### § [解题开始](solving/Euclidea3/start.png)  
 - 内简单的题目被略过。  
-- 感谢贡献难题解答的同学：[@fatevivid](https://github.com/fatevivid), [@gsdevcn](https://github.com/gsdevcn/)
+- 感谢贡献难题解答的同学：[@fatevivid](https://github.com/fatevivid), [@gsdevcn](https://github.com/gsdevcn/), [@negiizhao](https://github.com/negiizhao)
 - 未完成解的题目如果有图示表示已经上传提示
-- 欢迎大家一起来解题：[https://github.com/Tairraos/Geometry-Solving](https://github.com/Tairraos/Geometry-Solving)  
+- 欢迎大家一起来解题：[http://g-fans.github.io/Geometry-Solving/Euclidea3.html](http://g-fans.github.io/Geometry-Solving/Euclidea3.html)  
 
 #### § 1.Alpha 普通⭐:36，隐藏⭐:3，全解完成  
 
@@ -147,7 +147,7 @@ _注：[2V，左右各画一个角度得到隐藏星星。](solving/Euclidea3/4.
 
 - 4.4 圆内接等边三角形 *5L 6E*  
 解：[5L，如图作两个圆，然后AB点和BC点的中垂线即为两条边。](solving/Euclidea3/4.4.1.png)  
-解：[7E，如图找到60度角和120度角在圆上的交点。](solving/Euclidea3/4.4.2.png)  
+解：[6E，用2.8的思想。](solving/Euclidea3/4.4.2.png)  
 
 - 教程：交点工具 *0L 0E*  
 解：简单题，略。  
