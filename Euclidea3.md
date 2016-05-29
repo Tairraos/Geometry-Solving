@@ -175,7 +175,7 @@ _注：[2V，上下各做一个15度角得到隐藏星星。](solving/Euclidea3/
 解：[10E，如图步骤得到ABCD点并连接得解。](solving/Euclidea3/4.10.2.png)  
 _注：[2V，上下各做一正方形得到隐藏星星。](solving/Euclidea3/4.10.3.png)_  
 
-#### § 5.Epsilon 普通⭐:33，隐藏⭐:3，努力求全解中...  
+#### § 5.Epsilon 普通⭐:33，隐藏⭐:3，全解完成 
 
 - 5.1 过点做平行线 *2L 4E*  
 解：[2L，两次垂线工具可得平行线。](solving/Euclidea3/5.1.1.png)  
@@ -186,7 +186,7 @@ _注：[2V，上下各做一正方形得到隐藏星星。](solving/Euclidea3/4.
 
 - 5.2 给定三点做平行四边形 *4L 8E 3V* ⭐  
 解：[4L，两次平行线工具可得平行四边形。](solving/Euclidea3/5.2.1.png)  
-*解：[8E解答还没想出来。](solving/Euclidea3/5.2.2.png)*  
+解：[8E，利用5.1作平行线的方法，并且注意到两个平行线可以公用一个圆。](solving/Euclidea3/5.2.2.png)  
 _注：[3V，左右下各做一平行四边形得到隐藏星星。](solving/Euclidea3/5.2.3.png)_  
 
 - 5.3 和两个给定点距离相等的线1 *2L 4E*  
@@ -201,20 +201,20 @@ _注：[3V，左右下各做一平行四边形得到隐藏星星。](solving/Euc
 
 - 5.6 哈希 *2L 4E 2V* ⭐  
 解：[2L6E，作平行线。](solving/Euclidea3/5.6.1.png)  
-*解：[4E解答还没想出来。](solving/Euclidea3/5.6.2.png)*  
+解：[4E，利用5.1的作平行线的方法。](solving/Euclidea3/5.6.2.png)  
 _注：[2V，求得2组解得到隐藏星星。](solving/Euclidea3/5.6.3.png)_  
 
 - 5.7 偏移角 *2L 6E*  
 解：[2L，过点作2条平行线。](solving/Euclidea3/5.7.1.png)  
-*解：[4E解答还没想出来。](solving/Euclidea3/5.7.2.png)*  
+解：[4E，利用5.1的作平行线的方法。](solving/Euclidea3/5.7.2.png)  
 
 - 5.8 外接正方形 *6L 11E*  
 解：[6L，如图做3条垂线及3条平行线。](solving/Euclidea3/5.8.1.png)  
-*解：[11E解答还没想出来。](solving/Euclidea3/5.8.2.png)*  
+解：[11E，先做垂线，然后做出45度的直线。](solving/Euclidea3/5.8.2.png)  
 
 - 5.9 正方形内的正方形 *6L 7E*  
-*解：[6L解答还没想出来。](solving/Euclidea3/5.9.1.png)*  
-*解：[7E解答还没想出来。](solving/Euclidea3/5.9.2.png)*  
+解：[6L，先画圆，再作垂线，做出一条边后依次垂直画出全部的边。](solving/Euclidea3/5.9.1.png)  
+解：[7E，先作出对角线的交点也就是正方形的中心，然后画圆找出左右正方形的点。](solving/Euclidea3/5.9.2.png)  
 
 - 5.10 正六边形 *7L 8E 2V* ⭐  
 解：[7L，如图用平行线和垂分线工具求得上方3条边。](solving/Euclidea3/5.10.1.png)  
