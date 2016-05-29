@@ -3,7 +3,7 @@
 
 #### § [解题开始](solving/Pythagorea/start.png)
 - 前5章相对简单，前5章和章节内简单的题目被略过。
-- 欢迎大家一起来解题： https://github.com/Tairraos/Geometry-Solving
+- 欢迎大家一起来解题：[https://github.com/Tairraos/Geometry-Solving]
 
 #### § 6 Diffcult
 - 6.3 [画直线等分两个矩形](solving/Pythagorea/6.3.png)
