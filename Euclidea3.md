@@ -225,7 +225,7 @@ _注：[2V，求得2组解得到隐藏星星。](solving/Euclidea3/5.6.3.png)_
 解：[8E，如图做一个大圆，即可得用直线得到上方3条边。](solving/Euclidea3/5.10.2.png)  
 _注：[2V，上下各作一个六边形得到隐藏星星。](solving/Euclidea3/5.10.3.png)_  
 
-#### § 6.Zeta 普通⭐:30，隐藏⭐:4，努力求全解中...  
+#### § 6.Zeta 普通⭐:30，隐藏⭐:4，全解完成  
 
 - 6.1 中心点镜象线段 *4L 5E*  
 解：[4L，用2条直线和1个圆求得一个端点，然后用平行线工具。](solving/Euclidea3/6.1.1.png)  
@@ -240,32 +240,32 @@ _注：[2V，上下各作一个六边形得到隐藏星星。](solving/Euclidea3
 _注：[2V，在给定点两侧各做一条线段得到隐藏星星。](solving/Euclidea3/6.3.3.png)_  
 
 - 6.4 给定角平分线 *4L 4E*  
-*解：[4E解答还没想出来。](solving/Euclidea3/6.4.png)*  
+解：[4L4E，利用对称点。](solving/Euclidea3/6.4.png)  
 
 - 6.5 还原圆 *4L 5E*  
 解：[4L，作AO和AB的平行线。](solving/Euclidea3/6.5.1.png)   
-*解：5E解答还没想出来。*  
+解：[5E，利用等边三角形传递长度。](solving/Euclidea3/6.5.2.png)  
 
 - 教程：半径作圆工具 *1L 5E*  
 解：简单题，略。  
 
 - 6.6 复制线段 *2L 6E 2V* ⭐  
 解：[2L，指定半径作圆，再用平行线工具求得解。](solving/Euclidea3/6.6.1.png)   
-*解：6E解答还没想出来。*  
+解：[6E，利用6.5相同的思想，并且注意公用圆。](solving/Euclidea3/6.6.2.png)  
 _注：[2V，在给定点两侧各做一条线段得到隐藏星星。](solving/Euclidea3/6.6.3.png)_  
 
 - 6.7 已知边长的三角形 *4L 12E 4V* ⭐  
 解：[4L12E，复制半径作圆](solving/Euclidea3/6.7.1.png)  
 _注：[4V，如图做4个三角形得到隐藏星星。](solving/Euclidea3/6.7.2.png)_  
 
-- 6.8 斜边和足 *5L 10E 4V* ⭐  
+- 6.8 斜边和足 *5L 9E 4V* ⭐  
 解：[5L，圆周角定理](solving/Euclidea3/6.8.1.png)  
-*解：10E解答还没想出来。*  
+解：[9E，利用位似转移出二倍长的线段，再作垂直平分线](solving/Euclidea3/6.8.2.png)  
 _注：[4V，如图做4个三角形得到隐藏星星。](solving/Euclidea3/6.8.3.png)_  
 
 - 6.9 平行四边型 *5L 8E*  
 解：[5L，1.作中垂线求AB中点；2.以CB为半径作圆；3.过点作平行线。](solving/Euclidea3/6.9.1.png)   
-*解：8E解答还没想出来。*  
+解：[8E，利用5.1的思想画平行线，然后利用圆来使给定的点为中点。](solving/Euclidea3/6.9.2.png)  
 
 #### § 7.Eta 普通⭐:36，隐藏⭐:4，努力求全解中...  
 
