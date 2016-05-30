@@ -3,7 +3,11 @@
 
 #### § [解题开始](solving/Euclidea3/start.png)  
 - 内简单的题目被略过。  
-- 感谢贡献难题解答的同学：[@fatevivid](https://github.com/fatevivid), [@gsdevcn](https://github.com/gsdevcn/), [@negiizhao](https://github.com/negiizhao)
+- Repo维护主要贡献者：  
+[@Tairraos](https://github.com/tairraos)  
+[@gsdevcn](https://github.com/gsdevcn)  
+[@negiizhao](https://github.com/negiizhao)  
+[@fatevivid](https://github.com/fatevivid)  
 - 未完成解的题目如果有图示表示已经上传提示
 - 欢迎大家一起来解题：[http://g-fans.github.io/Geometry-Solving/Euclidea3.html](http://g-fans.github.io/Geometry-Solving/Euclidea3.html)  
 
