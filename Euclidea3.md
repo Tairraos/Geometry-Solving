@@ -280,7 +280,7 @@ _注：[4V，如图做4个三角形得到隐藏星星。](solving/Euclidea3/6.8.
 - 7.3 75度角 *4L 5E 2V* ⭐  
 解：[4L，作AOB的角平分线得C，AOC和角平分线即为75度角。](solving/Euclidea3/7.3.1.png)  
 解：[5E，圆心角60度即圆周角30度，平分后组成的直角三角形另一个角即为75度角。](solving/Euclidea3/7.3.2.png)  
-_注：[2V，上下各做一75度角正方形得到隐藏星星。](solving/Euclidea3/7.3.3.png) _  
+_注：[2V，上下各做一75度角正方形得到隐藏星星。](solving/Euclidea3/7.3.3.png)_  
 
 - 7.4 三点等距 *3L 7E 3V* ⭐  
 解：[3L，作垂线及垂分线。](solving/Euclidea3/7.4.1.png)  
@@ -310,7 +310,7 @@ _注：[3V，如图求得3个解得到隐藏星星。](solving/Euclidea3/7.4.2.p
 
 - 7.11 外切圆 *4L 8E 3V* ⭐  
 解：[4L，1.作角ABC及BCD的平分线，交于E即为所求圆圆心；2.过E作BC垂线，EF即为所求圆半径。](solving/Euclidea3/7.11.1.png)  
-解：[8E，思想和7.7 8E相似，只不过这次使用两个垂线的交点。](solving/Euclidea3/7.11.2.png) 
+解：[8E，思想和7.7 8E相似，只不过这次使用两个垂线的交点。](solving/Euclidea3/7.11.2.png)  
 _注：[3V，如图，作出全部三个解得到隐藏星星。](solving/Euclidea3/7.11.3.png)_  
 
 - 7.12 周长平分线 *4L 7E 3V* ⭐  
@@ -365,28 +365,55 @@ _注：[2V，如图，作出全部两个解得到隐藏星星。](solving/Euclid
 #### § 9.Iota 普通⭐:36，隐藏⭐:6，更新中...  
 
 - 9.1 圆的切线 *4L 5E 2V* ⭐  
+解：[4L，作以点和圆心连线为直径的圆。](solving/Euclidea3/d9.1.1.png)   
+解：[5E，利用位似的技巧。](solving/Euclidea3/d9.1.2.png)   
+_注：[2V，如图，作出全部两个解得到隐藏星星。](solving/Euclidea3/d9.1.3.png)_  
 
-- 9.2 外公切线 *6L 8E 2V* ⭐ 
+- 9.2 外公切线 *6L 8E 2V* ⭐  
+解：[6L，作以点和圆心连线为直径的圆，然后作两个圆最近点连线的中垂线，然后利用此线和开始圆的交点当圆心，可以得到外公切线的两个切点。](solving/Euclidea3/d9.2.1.png)   
+解：[8E，同样利用位似的技巧。](solving/Euclidea3/d9.2.2.png)   
+_注：[2V，如图，作出全部两个解得到隐藏星星。](solving/Euclidea3/d9.2.3.png)_  
 
 - 9.3 内公切线 *6L 8E 2V* ⭐  
+解：[6L，作以点和圆心连线为直径的圆，然后作两个圆一个内侧和另一个外侧点连线的中垂线，然后利用此线和开始圆的交点当圆心，可以得到内公切线的两个切点。](solving/Euclidea3/d9.3.1.png)   
+解：[8E，同样利用位似的技巧。](solving/Euclidea3/d9.3.2.png)   
+_注：[2V，如图，作出全部两个解得到隐藏星星。](solving/Euclidea3/d9.3.3.png)_  
 
 - 9.4 旋转90度 *5L 9E*  
+解：[5L9E，利用垂线和圆的交点找到一个点，然后作原来直线的垂线。](solving/Euclidea3/d9.4.png)    
 
 - 9.5 旋转60度 *4L 4E*  
+解：[4L4E，利用与9.4相似的思想。](solving/Euclidea3/d9.5.png)    
 
 - 9.6 三等分线段 *5L 6E*  
+解：[5L，利用中垂线的巧妙方法。](solving/Euclidea3/d9.6.1.png)   
+解：[6E，用圆规加倍长度，然后构造相似的等腰三角形。](solving/Euclidea3/d9.6.2.png)   
 
 - 9.7 三等分线段 *8L 8E*  
+解：[8L8E，利用8.5作出中电，然后利用中点作出两个三等分点。](solving/Euclidea3/d9.7.png)   
 
 - 9.8 三等分圆内弦 *3L 4E 2V* ⭐  
+解：[3L，利用位似技巧和定半径圆工具。](solving/Euclidea3/d9.8.1.png)   
+解：[4E，同样利用位似的技巧，只是不用定半径圆工具。](solving/Euclidea3/d9.8.2.png)   
+_注：[2V，如图，作出全部两个解得到隐藏星星。](solving/Euclidea3/d9.8.3.png)_  
 
 - 9.9 比值1:5 *4L 5E 2V* ⭐  
+解：[4L，利用定半径圆工具和角平分线工具。](solving/Euclidea3/d9.9.1.png)   
+解：[5E，用圆规加倍长度，然后用垂直弦分割。](solving/Euclidea3/d9.9.2.png)   
+_注：[2V，如图，作出全部两个解得到隐藏星星。](solving/Euclidea3/d9.9.3.png)_  
 
 - 9.10 三个圆1 *7L 10E*  
+解：[7L，可以依照计算找到一个相切点，最后一个圆用定半径圆工具。](solving/Euclidea3/d9.10.1.png)   
+解：[10E，思想同7L，多画一条直线，可以在最后避免用定半径圆工具。](solving/Euclidea3/d9.10.2.png)   
 
 - 9.11 三等分割线 *4L 5E 2V* ⭐  
+解：[4L，利用位似技巧和定半径圆工具。](solving/Euclidea3/d9.11.1.png)   
+解：[5E，同样利用位似的技巧，只是不用定半径圆工具。](solving/Euclidea3/d9.11.2.png)   
+_注：[2V，如图，作出全部两个解得到隐藏星星。](solving/Euclidea3/d9.11.3.png)_  
 
 - 9.12 三个圆2 *9L 14E*  
+解：[9L，中间三个点是要作的三个圆圆心构成三角形的内切圆切点，据此构造。](solving/Euclidea3/d9.12.1.png)   
+解：[14E，思路同9L，但是需要注意公用构造。](solving/Euclidea3/d9.12.2.png)   
 
 #### § 10.Kappa 普通⭐:27，隐藏⭐:4，更新中...
 
@@ -398,7 +425,7 @@ _注：[2V，如图，作出全部两个解得到隐藏星星。](solving/Euclid
 
 - 10.4 54度角 *5L 6E 2V* ⭐  
 
-- 10.5 第三条平行线 *8L 8E*  
+- 10.5 第三条平行线 *7L 7E*  
 
 - 10.6 角内的圆 *7L 11E 2V* ⭐  
 
