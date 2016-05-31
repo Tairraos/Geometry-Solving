@@ -519,22 +519,34 @@ _注：[2V，如图，作出全部两个解得到隐藏星星。](solving/Euclid
 
 #### § 13.Nu 普通⭐:27，隐藏⭐:2，全解完成  
 
-- 13.1 中点 *6L 6E*
+- 13.1 中点 *6L 6E*  
+解：[6L6E，圆规几何问题。](solving/Euclidea3/d13.1.png)   
 
-- 13.2 复制圆 *4L 4E*
+- 13.2 复制圆 *4L 4E*  
+解：[4L4E，利用等边三角形转移长度。](solving/Euclidea3/d13.2.png)   
 
-- 13.3 直线和圆的交点 *4L 4E*
+- 13.3 直线和圆的交点 *4L 4E*  
+解：[4L4E，圆规几何基础问题。](solving/Euclidea3/d13.3.png)   
 
-- 13.4 三个等长线段 *7L 7E*
+- 13.4 三个等长线段 *7L 7E*  
+解：[7L7E，应用位似，以及步骤优化。](solving/Euclidea3/d13.4.png)   
 
-- 13.5 相切于圆 *8L 8E 2V* ⭐
+- 13.5 相切于圆 *8L 8E 2V* ⭐  
+解：[8L8E，利用射影几何调和点列的性质。](solving/Euclidea3/d13.5.1.png)   
+_注：[2V，如图，作出全部两个解得到隐藏星星。](solving/Euclidea3/d13.5.2.png)_  
 
-- 13.6 拿破仑问题 *6L 6E*
+- 13.6 拿破仑问题 *6L 6E*  
+解：[6L6E，圆规几何问题。](solving/Euclidea3/d13.6.png)   
 
-- 13.7 画垂线 *10L 10E*
+- 13.7 画垂线 *10L 10E*  
+解：[10L10E，巧妙的构造，思路待更新。](solving/Euclidea3/d13.7.png)   
 
-- 13.8 直线和圆的交点 *9L 9E*
+- 13.8 直线和圆的交点 *9L 9E*  
+解：[9L9E，第一步：按图画三个圆。](solving/Euclidea3/d13.8_1.png)[第二步：按图添加一个圆。](solving/Euclidea3/d13.8_2.png)[第三步：按图添加对称的两个圆。](solving/Euclidea3/d13.8_3.png)[第四步，按图添加一个圆。](solving/Euclidea3/d13.8_4.png)[第五步，按图添加一个圆。](solving/Euclidea3/d13.8_5.png)[最后按图添加一个圆后，找到交点即可。](solving/Euclidea3/d13.8_6.png)   
 
-- 13.9 圆心在定直线上的圆 *8L 9E 2V* ⭐
+- 13.9 圆心在定直线上的圆 *8L 9E 2V* ⭐  
+解：[8L，巧妙的构造，思路待更新。](solving/Euclidea3/d13.9.1.png)   
+解：[9E，巧妙的构造，思路待更新。](solving/Euclidea3/d13.9.2.png)   
+_注：[2V，如图，作出全部两个解得到隐藏星星。](solving/Euclidea3/d13.9.3.png)_  
 
-
+#### § 全部解题完成
