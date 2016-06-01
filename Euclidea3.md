@@ -406,7 +406,7 @@ _注：[2V，如图，作出全部两个解得到隐藏星星。](solving/Euclid
 解：[7L，可以依照计算找到一个相切点，最后一个圆用定半径圆工具。](solving/Euclidea3/d9.10.1.png)   
 解：[10E，思想同7L，多画一条直线，可以在最后避免用定半径圆工具。](solving/Euclidea3/d9.10.2.png)   
 
-- 9.11 三等分割线 *4L 5E 2V* ⭐  
+- 9.11 平分割线 *4L 5E 2V* ⭐  
 解：[4L，利用位似技巧和定半径圆工具。](solving/Euclidea3/d9.11.1.png)   
 解：[5E，同样利用位似的技巧，只是不用定半径圆工具。](solving/Euclidea3/d9.11.2.png)   
 _注：[2V，如图，作出全部两个解得到隐藏星星。](solving/Euclidea3/d9.11.3.png)_  
