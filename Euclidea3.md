@@ -390,7 +390,7 @@ _注：[2V，如图，作出全部两个解得到隐藏星星。](solving/Euclid
 解：[6E，用圆规加倍长度，然后构造相似的等腰三角形。](solving/Euclidea3/d9.6.2.png)   
 
 - 9.7 三等分线段 *8L 8E*  
-解：[8L8E，利用8.5作出中电，然后利用中点作出两个三等分点。](solving/Euclidea3/d9.7.png)   
+解：[8L8E，利用8.5作出中点，然后利用中点作出两个三等分点。](solving/Euclidea3/d9.7.png)   
 
 - 9.8 三等分圆内弦 *3L 4E 2V* ⭐  
 解：[3L，利用位似技巧和定半径圆工具。](solving/Euclidea3/d9.8.1.png)   
