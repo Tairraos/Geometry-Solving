@@ -131,7 +131,7 @@ _注：2V，上下可各画一个角度线得到隐藏星星。_
 
 - 3.8 菱形 *5L 7E 4V* ⭐  
 解：[5L，1.以AB为半径作圆；2.过A作垂分；3.过C作垂线；4.连接AC和BD。](solving/Euclidea3/3.8.1.png)  
-解：[7E，如图顺序，用垂分线上的圆得到两条45度边。](solving/Euclidea3/3.8.2.png)  
+解：[7E，如图顺序，用垂分线上的圆得到两条45°边。](solving/Euclidea3/3.8.2.png)  
 _注：[4V，左右上下可各画一个菱形得到隐藏星星。](solving/Euclidea3/3.8.3.png)_  
 
 #### § 4.Delta 普通⭐:33，隐藏⭐:4，全解完成  
@@ -166,9 +166,9 @@ _注：[2V，左右各画一个角度得到隐藏星星。](solving/Euclidea3/4.
 解：[3L3E，参考后面的知识点，AC长度即为√3。](solving/Euclidea3/4.7.1.png)[解题知识点👀](solving/Euclidea3/4.7.2.png)  
 
 - 4.8 15°角 *3L 5E 2V*   
-解：[3L，如图作圆，然后角平分30度角。](solving/Euclidea3/4.8.1.png)  
-解：[5E，弧对应的圆心角是圆周角的一倍。找到30度圆心角。](solving/Euclidea3/4.8.2.png)  
-_注：[2V，上下各做一个15度角得到隐藏星星。](solving/Euclidea3/4.8.3.png)_  
+解：[3L，如图作圆，然后角平分30°角。](solving/Euclidea3/4.8.1.png)  
+解：[5E，弧对应的圆心角是圆周角的一倍。找到30°圆心角。](solving/Euclidea3/4.8.2.png)  
+_注：[2V，上下各做一个15°角得到隐藏星星。](solving/Euclidea3/4.8.3.png)_  
 
 - 4.9 由对边中点确定的正方形 *6L 10E*  
 解：[6L，作圆，然后用垂线和中垂线工具即可得解。](solving/Euclidea3/4.9.1.png)  
@@ -214,7 +214,7 @@ _注：[2V，求得2组解得到隐藏星星。](solving/Euclidea3/5.6.3.png)_
 
 - 5.8 外切正方形 *6L 11E*  
 解：[6L，如图做3条垂线及3条平行线。](solving/Euclidea3/5.8.1.png)  
-解：[11E，先做垂线，然后做出45度的直线。](solving/Euclidea3/5.8.2.png)  
+解：[11E，先做垂线，然后做出45°的直线。](solving/Euclidea3/5.8.2.png)  
 
 - 5.9 正方形内的正方形 *6L 7E*  
 解：[6L，先画圆，再作垂线，做出一条边后依次垂直画出全部的边。](solving/Euclidea3/5.9.1.png)  
@@ -278,9 +278,9 @@ _注：[4V，如图做4个三角形得到隐藏星星。](solving/Euclidea3/6.8.
 解：[5E，和4L完全相同的方法，在作垂线的时候可以省1E。](solving/Euclidea3/7.2.2.png)    
 
 - 7.3 75°角 *4L 5E 2V* ⭐  
-解：[4L，作∠AOB的角平分线得C，AOC和角平分线即为75度角。](solving/Euclidea3/7.3.1.png)  
+解：[4L，作∠AOB的角平分线得C，AOC和角平分线即为75°角。](solving/Euclidea3/7.3.1.png)  
 解：[5E，圆心角60°即圆周角30°，平分后组成的直角三角形另一个角即为75°角。](solving/Euclidea3/7.3.2.png)  
-_注：[2V，上下各做一75度角正方形得到隐藏星星。](solving/Euclidea3/7.3.3.png)_  
+_注：[2V，上下各做一75°角正方形得到隐藏星星。](solving/Euclidea3/7.3.3.png)_  
 
 - 7.4 到三点距离相等的线 *3L 7E 3V* ⭐  
 解：[3L，作垂线及垂分线。](solving/Euclidea3/7.4.1.png)  
@@ -489,7 +489,7 @@ _注：[2V，如图，作出全部两个解得到隐藏星星。](solving/Euclid
 _注：[2V，如图，作出全部两个解得到隐藏星星。](solving/Euclidea3/d12.1.3.png)_  
 
 - 12.2 等边三角形 - 2 *7L 8E 2V* ⭐  
-解：[7L，巧妙利用弧长加减构造60度。](solving/Euclidea3/d12.2.1.png)   
+解：[7L，巧妙利用弧长加减构造60°。](solving/Euclidea3/d12.2.1.png)   
 解：[8E，巧妙构造正三角形的一个顶点。](solving/Euclidea3/d12.2.2.png)   
 _注：[2V，如图，作出全部两个解得到隐藏星星。](solving/Euclidea3/d12.2.3.png)_  
 
@@ -550,3 +550,5 @@ _注：[2V，如图，作出全部两个解得到隐藏星星。](solving/Euclid
 _注：[2V，如图，作出全部两个解得到隐藏星星。](solving/Euclidea3/d13.9.3.png)_  
 
 #### § 全部解题完成
+
+
