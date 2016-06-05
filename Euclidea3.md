@@ -2,9 +2,9 @@
 对应 Apple app store 里的 Euclidea 3 游戏  
 
 #### § 解题页面维护者：  
-[@Tairraos](https://github.com/tairraos)  
-[@gsdevcn](https://github.com/gsdevcn)  
-[@negiizhao](https://github.com/negiizhao)  
+- [@Tairraos](https://github.com/tairraos)  
+- [@gsdevcn](https://github.com/gsdevcn)  
+- [@negiizhao](https://github.com/negiizhao)  
 
 #### § 1.Alpha 普通⭐:36，隐藏⭐:3，全解完成  
 
