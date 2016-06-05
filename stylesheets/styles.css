@@ -324,7 +324,10 @@ footer p + p {
 .toolIcon.Midpoint {
     background: url(Midpoint.png);
 }
-
+.stepIcons{
+    vertical-align: top;
+    line-height: 44px;
+}
 @media print, screen and (max-width: 740px) {
     body {
         padding: 0;

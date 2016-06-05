@@ -82,7 +82,7 @@
         $('em', mdContainer).each(function () {
             if (/步骤[:：]/.test($(this).text())) {
                 var textArr = $(this).text().match(/^(.*步骤)[:：\s]*(.*)$/);
-                $(this).html(textArr[1] + '：' + trans2Fig(textArr[2]));
+                $(this).html(textArr[1] + '：' + trans2Fig(textArr[2])).addClass('stepIcons');
             }
         });
 
