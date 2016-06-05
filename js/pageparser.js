@@ -18,6 +18,7 @@
 
         $('a', mdContainer).addClass('showfig');
 
+        //修改h4标题
         $('h4', mdContainer).each(function () {
             if (/解题开始$/.test($(this).text())) {
                 var $ul = $(this).next('ul').eq(0);
@@ -25,18 +26,7 @@
                 $ul.addClass('brief');
                 $('a', $ul).removeClass('showfig').attr('target','_blank');
             }
-            if (/全解完成$/.test($(this).text())) {
-                $(this).addClass('allsolved');
-            }
         });
-
-        $('em', mdContainer).each(function () {
-            if (/还没想出来。$/.test($(this).text())) {
-                $(this).addClass('unresolve');
-                $(this).find('a').addClass('unresolve');
-            }
-        });
-
 
         //修改链接功能
         var fnTitleClicked = function (ele) {
@@ -58,9 +48,11 @@
             $(this).click(fnTitleClicked);
         });
 
+        
 
     });
 
+    //固定导航菜单
     var $ul = $('header ul'), topUl = parseInt($(document.body).css('padding-top')) >= 50 ? 112 : 62,
         currentUlFixStatus = false, shouldUlFixStatus = false;
 
