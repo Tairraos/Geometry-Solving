@@ -274,6 +274,56 @@ footer p + p {
     margin: 10px 0 5px;
 }
 
+.toolIcon{
+    width:44px;
+    height:44px;
+    display:inline-block;
+}
+.toolIcon.AngleBisector {
+    background: url(AngleBisector.png);
+}
+
+.toolIcon.Circle {
+    background: url(Circle.png);
+}
+
+.toolIcon.Compass {
+    background: url(Compass.png);
+}
+
+.toolIcon.Intersect {
+    background: url(Intersect.png);
+}
+
+.toolIcon.Line {
+    background: url(Line.png);
+}
+
+.toolIcon.Next {
+    width:10px;
+    background: url(Next.png);
+}
+
+.toolIcon.Parallel {
+    background: url(Parallel.png);
+}
+
+.toolIcon.Perpendicular {
+    background: url(Perpendicular.png);
+}
+
+.toolIcon.PerpendicularBisector {
+    background: url(PerpendicularBisector.png);
+}
+
+.toolIcon.Point {
+    background: url(Point.png);
+}
+
+.toolIcon.Midpoint {
+    background: url(Midpoint.png);
+}
+
 @media print, screen and (max-width: 740px) {
     body {
         padding: 0;
@@ -299,3 +349,5 @@ footer p + p {
         float: none;
     }
 }
+
+

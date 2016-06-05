@@ -24,7 +24,7 @@
                 var $ul = $(this).next('ul').eq(0);
                 $(this).addClass('briefH4');
                 $ul.addClass('brief');
-                $('a', $ul).removeClass('showfig').attr('target','_blank');
+                $('a', $ul).removeClass('showfig').attr('target', '_blank');
             }
         });
 
@@ -48,7 +48,43 @@
             $(this).click(fnTitleClicked);
         });
 
-        
+        //步骤工具
+        var toolDict = {
+            '点': 'Point',
+            '直线': 'Line',
+            '圆': 'Circle',
+            '垂分': 'PerpendicularBisector',
+            '垂分线': 'PerpendicularBisector',
+            '垂直平分线': 'PerpendicularBisector',
+            '垂线': 'Perpendicular',
+            '角分': 'AngleBisector',
+            '角平分线': 'AngleBisector',
+            '平行': 'Parallel',
+            '平行线': 'Parallel',
+            '定圆': 'Compass',
+            '指定半径画圆': 'Compass',
+            '交点': 'Intersect',
+            '相交点': 'Intersect',
+            '中点': 'Midpoint',
+            'next': 'Next'
+        };
+
+        function trans2Fig(str) {
+            var arr, retHtml = '';
+            str = str.replace(/[(工具),，\s]+/g, ' ');
+            arr = str.split(' ').join(' next ').split(' ');
+            $.each(arr, function (i, s) {
+                retHtml += '<span class="toolIcon ' + toolDict[s] + '"></span>';
+            });
+            return retHtml;
+        }
+
+        $('em', mdContainer).each(function () {
+            if (/步骤[:：]/.test($(this).text())) {
+                var textArr = $(this).text().match(/^(.*步骤)[:：\s]*(.*)$/);
+                $(this).html(textArr[1] + '：' + trans2Fig(textArr[2]));
+            }
+        });
 
     });
 
@@ -65,3 +101,4 @@
     })
 
 }(jQuery));
+
