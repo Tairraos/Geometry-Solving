@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>testSvg</title>
+    <style>
+        @keyframes rotateWise {
+            0% {
+                transform: rotate(2deg);
+            }
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+
+        @keyframes rotateAnti {
+            0% {
+                transform: rotate(360deg);
+            }
+            100% {
+                transform: rotate(2deg);
+            }
+        }
+
+        .rotateImageWise {
+            animation: rotateWise 180s infinite linear;
+            position: absolute;
+            top: -500px;
+        }
+
+        .rotateImageAnti {
+            animation: rotateAnti 180s infinite linear;
+            position: absolute;
+            bottom: -500px;
+        }
+
+        .bglayer {
+            position: absolute;
+            width:800px;
+        }
+    </style>
+</head>
+<body style="background:#191d21;">
+<div class="bglayer">
+    <img src="euclid.png" style="width:100%; height:100%">
+    <img src="backani.svg" class="rotateImageAnti">
+    <img src="backani.svg" class="rotateImageWise">
+</div>
+</body>
+</html>
