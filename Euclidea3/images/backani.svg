@@ -21,7 +21,7 @@
         </rdf:RDF>
     </metadata>
     <g id="layer1">
-        <circle style="fill:none;stroke:#333333;stroke-width:1px"
+        <circle style="fill:none;stroke:#444444;stroke-width:1px" stroke-dasharray="3,2"
                 id="path0001"
                 cx="500" cy="500" r="170"/>
         <circle style="fill:none;stroke:#333333;stroke-width:1px"
