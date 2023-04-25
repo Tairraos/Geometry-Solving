@@ -1,12 +1,12 @@
 (function ($) {
     'use strict';
-    var mdContainer = $('#mdContainer');
-    if (!mdContainer.length) {
+    var mdContainer = document.querySelector('#mdContainer');
+    if (!mdContainer) {
         return;
     }
-    $.get(mdContainer.attr('data-md') + '.md', function (data) {
+    $.get(mdContainer.getAttribute('data-md') + '.md', function (data) {
         var mdParser = new Remarkable();
-        mdContainer.html(mdParser.render(data));
+        mdContainer.innerHTML = mdParser.render(data);
 
         //隐藏标题
         $('h3', mdContainer).each(function () {
@@ -62,5 +62,5 @@
         }
     })
 
-}(jQuery));
+}(Zepto));
 
